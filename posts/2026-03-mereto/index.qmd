@@ -5,6 +5,8 @@ categories: [Theses]
 image: "mereto.png"
 ---
 
-Francesco Mereto successfully passed his Master's exam. 
+Francesco Mereto successfully passed his Master's exam about *Virtual Orbital Space Compression via Davidson-Based techniques*. 
+
+![](mereto.png){fig-align="center" width="50%"}
 
 In his thesis, he developed enhanced Davidson algorithms to significantly speed up compression techniques of the virtual orbital space starting from the unbiased plane wave basis. This is particularly useful for correlation workflows (e.g., coupled cluster theory) applied to systems which include a lot of vacuum.
