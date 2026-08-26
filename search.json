@@ -70,11 +70,11 @@
     "text": "Open Positions\nIf you are interested in joining the lab and securing external funding, please reach out to discuss potential fellowship applications."
   },
   {
-    "objectID": "posts/2026-03-mereto/index.html",
-    "href": "posts/2026-03-mereto/index.html",
-    "title": "Congratulations to Francesco Mereto",
+    "objectID": "posts/2024-12-metals/index.html",
+    "href": "posts/2024-12-metals/index.html",
+    "title": "Publication in Nature Chemistry",
     "section": "",
-    "text": "Francesco Mereto successfully passed his Master’s exam about Virtual Orbital Space Compression via Davidson-Based techniques.\n\n\n\n\n\nIn his thesis, he developed enhanced Davidson algorithms to significantly speed up compression techniques of the virtual orbital space starting from the unbiased plane wave basis. This is particularly useful for correlation workflows (e.g., coupled cluster theory) applied to systems which include a lot of vacuum."
+    "text": "An accurate and efficient framework for modelling the surface chemistry of ionic materials\n\n\n\n\n\nBenjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach. This makes it practical to apply highly accurate correlated wavefunction theory, achieving results comparable to experiments at a manageable computational cost. It was an honor to contribute to this work in a great collaboration with Benjamin X. Shi, Andrea Zen, Angelos Michaelides, and coworkers."
   },
   {
     "objectID": "posts/2025-10-natcomm/index.html",
@@ -82,6 +82,48 @@
     "title": "Publication in Nature Communications",
     "section": "",
     "text": "Understanding discrepancies in noncovalent interaction energies from wavefunction theories for large molecules\n\n\n\n\n\nOur paper on noncovalent interactions is now published in Nature Communications. We investigate why two of the most trusted methods in quantum chemistry, CCSD(T) and DMC, have shown puzzling disagreements for large molecules. We identify an issue in the standard CCSD(T) method and show how our CCSD(cT) approach fixes this."
+  },
+  {
+    "objectID": "posts/2026-03-rumpf/index.html",
+    "href": "posts/2026-03-rumpf/index.html",
+    "title": "Congratulations to Alexander Rumpf",
+    "section": "",
+    "text": "Alexander Rumpf successfully passed his Master’s exam about Fragment-Based Embedding of Correlated Wavefunction Methods for CO Adsorption on TiO2(110).\n\n\n\n\n\nIn his thesis, he developed enhanced Davidson algorithms to significantly speed up compression techniques of the virtual orbital space starting from the unbiased plane wave basis. This is particularly useful for correlation workflows (e.g., coupled cluster theory) applied to systems which include a lot of vacuum."
+  },
+  {
+    "objectID": "posts/2025-08-shi/index.html",
+    "href": "posts/2025-08-shi/index.html",
+    "title": "Publication in Nature Chemistry",
+    "section": "",
+    "text": "An accurate and efficient framework for modelling the surface chemistry of ionic materials\n\n\n\n\n\nBenjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach. This makes it practical to apply highly accurate correlated wavefunction theory, achieving results comparable to experiments at a manageable computational cost. It was an honor to contribute to this work in a great collaboration with Benjamin X. Shi, Andrea Zen, Angelos Michaelides, and coworkers."
+  },
+  {
+    "objectID": "posts/2024-02-rumpf/index.html",
+    "href": "posts/2024-02-rumpf/index.html",
+    "title": "Publication in Nature Chemistry",
+    "section": "",
+    "text": "An accurate and efficient framework for modelling the surface chemistry of ionic materials\n\n\n\n\n\nBenjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach. This makes it practical to apply highly accurate correlated wavefunction theory, achieving results comparable to experiments at a manageable computational cost. It was an honor to contribute to this work in a great collaboration with Benjamin X. Shi, Andrea Zen, Angelos Michaelides, and coworkers."
+  },
+  {
+    "objectID": "posts/2024-07-preprint/index.html",
+    "href": "posts/2024-07-preprint/index.html",
+    "title": "Publication in Nature Chemistry",
+    "section": "",
+    "text": "An accurate and efficient framework for modelling the surface chemistry of ionic materials\n\n\n\n\n\nBenjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach. This makes it practical to apply highly accurate correlated wavefunction theory, achieving results comparable to experiments at a manageable computational cost. It was an honor to contribute to this work in a great collaboration with Benjamin X. Shi, Andrea Zen, Angelos Michaelides, and coworkers."
+  },
+  {
+    "objectID": "posts/2024-12-woeckinger/index.html",
+    "href": "posts/2024-12-woeckinger/index.html",
+    "title": "Publication in Nature Chemistry",
+    "section": "",
+    "text": "An accurate and efficient framework for modelling the surface chemistry of ionic materials\n\n\n\n\n\nBenjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach. This makes it practical to apply highly accurate correlated wavefunction theory, achieving results comparable to experiments at a manageable computational cost. It was an honor to contribute to this work in a great collaboration with Benjamin X. Shi, Andrea Zen, Angelos Michaelides, and coworkers."
+  },
+  {
+    "objectID": "posts/2026-03-mereto/index.html",
+    "href": "posts/2026-03-mereto/index.html",
+    "title": "Congratulations to Francesco Mereto",
+    "section": "",
+    "text": "Francesco Mereto successfully passed his Master’s exam about Virtual Orbital Space Compression via Davidson-Based techniques.\n\n\n\n\n\nIn his thesis, he developed enhanced Davidson algorithms to significantly speed up compression techniques of the virtual orbital space starting from the unbiased plane wave basis. This is particularly useful for correlation workflows (e.g., coupled cluster theory) applied to systems which include a lot of vacuum."
   },
   {
     "objectID": "theses.html",

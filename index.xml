@@ -10,7 +10,31 @@
 <atom:link href="https://toschaefer.github.io/schaeferlab-website/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Sun, 01 Mar 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Mar 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Congratulations to Alexander Rumpf</title>
+  <link>https://toschaefer.github.io/schaeferlab-website/posts/2026-03-rumpf/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Alexander Rumpf successfully passed his Master’s exam about <em>Fragment-Based Embedding of Correlated Wavefunction Methods for CO Adsorption on TiO2(110)</em>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://toschaefer.github.io/schaeferlab-website/posts/2026-03-rumpf/rumpf.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+<p>In his thesis, he developed enhanced Davidson algorithms to significantly speed up compression techniques of the virtual orbital space starting from the unbiased plane wave basis. This is particularly useful for correlation workflows (e.g., coupled cluster theory) applied to systems which include a lot of vacuum.</p>
+
+
+
+ ]]></description>
+  <category>Theses</category>
+  <guid>https://toschaefer.github.io/schaeferlab-website/posts/2026-03-rumpf/</guid>
+  <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://toschaefer.github.io/schaeferlab-website/posts/2026-03-rumpf/rumpf.png" medium="image" type="image/png" height="89" width="144"/>
+</item>
 <item>
   <title>Congratulations to Francesco Mereto</title>
   <link>https://toschaefer.github.io/schaeferlab-website/posts/2026-03-mereto/</link>
@@ -58,6 +82,126 @@
   <guid>https://toschaefer.github.io/schaeferlab-website/posts/2025-10-natcomm/</guid>
   <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
   <media:content url="https://toschaefer.github.io/schaeferlab-website/posts/2025-10-natcomm/natcomm.png" medium="image" type="image/png" height="105" width="144"/>
+</item>
+<item>
+  <title>Publication in Nature Chemistry</title>
+  <link>https://toschaefer.github.io/schaeferlab-website/posts/2024-02-rumpf/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://doi.org/10.1038/s41557-025-01884-y">An accurate and efficient framework for modelling the surface chemistry of ionic materials</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://toschaefer.github.io/schaeferlab-website/posts/2024-02-rumpf/shi.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+<p>Benjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach. This makes it practical to apply highly accurate correlated wavefunction theory, achieving results comparable to experiments at a manageable computational cost. It was an honor to contribute to this work in a great collaboration with Benjamin X. Shi, Andrea Zen, Angelos Michaelides, and coworkers.</p>
+
+
+
+ ]]></description>
+  <category>Paper</category>
+  <guid>https://toschaefer.github.io/schaeferlab-website/posts/2024-02-rumpf/</guid>
+  <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://toschaefer.github.io/schaeferlab-website/posts/2024-02-rumpf/shi.png" medium="image" type="image/png" height="105" width="144"/>
+</item>
+<item>
+  <title>Publication in Nature Chemistry</title>
+  <link>https://toschaefer.github.io/schaeferlab-website/posts/2025-08-shi/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://doi.org/10.1038/s41557-025-01884-y">An accurate and efficient framework for modelling the surface chemistry of ionic materials</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://toschaefer.github.io/schaeferlab-website/posts/2025-08-shi/shi.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+<p>Benjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach. This makes it practical to apply highly accurate correlated wavefunction theory, achieving results comparable to experiments at a manageable computational cost. It was an honor to contribute to this work in a great collaboration with Benjamin X. Shi, Andrea Zen, Angelos Michaelides, and coworkers.</p>
+
+
+
+ ]]></description>
+  <category>Paper</category>
+  <guid>https://toschaefer.github.io/schaeferlab-website/posts/2025-08-shi/</guid>
+  <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://toschaefer.github.io/schaeferlab-website/posts/2025-08-shi/shi.png" medium="image" type="image/png" height="105" width="144"/>
+</item>
+<item>
+  <title>Publication in Nature Chemistry</title>
+  <link>https://toschaefer.github.io/schaeferlab-website/posts/2024-07-preprint/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://doi.org/10.1038/s41557-025-01884-y">An accurate and efficient framework for modelling the surface chemistry of ionic materials</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://toschaefer.github.io/schaeferlab-website/posts/2024-07-preprint/shi.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+<p>Benjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach. This makes it practical to apply highly accurate correlated wavefunction theory, achieving results comparable to experiments at a manageable computational cost. It was an honor to contribute to this work in a great collaboration with Benjamin X. Shi, Andrea Zen, Angelos Michaelides, and coworkers.</p>
+
+
+
+ ]]></description>
+  <category>Paper</category>
+  <guid>https://toschaefer.github.io/schaeferlab-website/posts/2024-07-preprint/</guid>
+  <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://toschaefer.github.io/schaeferlab-website/posts/2024-07-preprint/shi.png" medium="image" type="image/png" height="105" width="144"/>
+</item>
+<item>
+  <title>Publication in Nature Chemistry</title>
+  <link>https://toschaefer.github.io/schaeferlab-website/posts/2024-12-woeckinger/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://doi.org/10.1038/s41557-025-01884-y">An accurate and efficient framework for modelling the surface chemistry of ionic materials</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://toschaefer.github.io/schaeferlab-website/posts/2024-12-woeckinger/shi.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+<p>Benjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach. This makes it practical to apply highly accurate correlated wavefunction theory, achieving results comparable to experiments at a manageable computational cost. It was an honor to contribute to this work in a great collaboration with Benjamin X. Shi, Andrea Zen, Angelos Michaelides, and coworkers.</p>
+
+
+
+ ]]></description>
+  <category>Paper</category>
+  <guid>https://toschaefer.github.io/schaeferlab-website/posts/2024-12-woeckinger/</guid>
+  <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://toschaefer.github.io/schaeferlab-website/posts/2024-12-woeckinger/shi.png" medium="image" type="image/png" height="105" width="144"/>
+</item>
+<item>
+  <title>Publication in Nature Chemistry</title>
+  <link>https://toschaefer.github.io/schaeferlab-website/posts/2024-12-metals/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://doi.org/10.1038/s41557-025-01884-y">An accurate and efficient framework for modelling the surface chemistry of ionic materials</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://toschaefer.github.io/schaeferlab-website/posts/2024-12-metals/shi.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+<p>Benjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach. This makes it practical to apply highly accurate correlated wavefunction theory, achieving results comparable to experiments at a manageable computational cost. It was an honor to contribute to this work in a great collaboration with Benjamin X. Shi, Andrea Zen, Angelos Michaelides, and coworkers.</p>
+
+
+
+ ]]></description>
+  <category>Paper</category>
+  <guid>https://toschaefer.github.io/schaeferlab-website/posts/2024-12-metals/</guid>
+  <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://toschaefer.github.io/schaeferlab-website/posts/2024-12-metals/shi.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 </channel>
 </rss>
