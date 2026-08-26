@@ -19,7 +19,12 @@
 
 
 
-<p>Francesco Mereto successfully passed his Master’s exam.</p>
+<p>Francesco Mereto successfully passed his Master’s exam about <em>Virtual Orbital Space Compression via Davidson-Based techniques</em>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://toschaefer.github.io/schaeferlab-website/posts/2026-03-mereto/mereto.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
 <p>In his thesis, he developed enhanced Davidson algorithms to significantly speed up compression techniques of the virtual orbital space starting from the unbiased plane wave basis. This is particularly useful for correlation workflows (e.g., coupled cluster theory) applied to systems which include a lot of vacuum.</p>
 
 
@@ -29,6 +34,30 @@
   <guid>https://toschaefer.github.io/schaeferlab-website/posts/2026-03-mereto/</guid>
   <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
   <media:content url="https://toschaefer.github.io/schaeferlab-website/posts/2026-03-mereto/mereto.png" medium="image" type="image/png" height="105" width="144"/>
+</item>
+<item>
+  <title>Publication in Nature Communications</title>
+  <link>https://toschaefer.github.io/schaeferlab-website/posts/2025-10-natcomm/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://doi.org/10.1038/s41467-025-64104-8">Understanding discrepancies in noncovalent interaction energies from wavefunction theories for large molecules</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://toschaefer.github.io/schaeferlab-website/posts/2025-10-natcomm/natcomm.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+<p>Our paper on noncovalent interactions is now published in Nature Communications. We investigate why two of the most trusted methods in quantum chemistry, CCSD(T) and DMC, have shown puzzling disagreements for large molecules. We identify an issue in the standard CCSD(T) method and show how our CCSD(cT) approach fixes this.</p>
+
+
+
+ ]]></description>
+  <category>Paper</category>
+  <guid>https://toschaefer.github.io/schaeferlab-website/posts/2025-10-natcomm/</guid>
+  <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://toschaefer.github.io/schaeferlab-website/posts/2025-10-natcomm/natcomm.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 </channel>
 </rss>

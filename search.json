@@ -74,7 +74,14 @@
     "href": "posts/2026-03-mereto/index.html",
     "title": "Congratulations to Francesco Mereto",
     "section": "",
-    "text": "Francesco Mereto successfully passed his Master’s exam.\nIn his thesis, he developed enhanced Davidson algorithms to significantly speed up compression techniques of the virtual orbital space starting from the unbiased plane wave basis. This is particularly useful for correlation workflows (e.g., coupled cluster theory) applied to systems which include a lot of vacuum."
+    "text": "Francesco Mereto successfully passed his Master’s exam about Virtual Orbital Space Compression via Davidson-Based techniques.\n\n\n\n\n\nIn his thesis, he developed enhanced Davidson algorithms to significantly speed up compression techniques of the virtual orbital space starting from the unbiased plane wave basis. This is particularly useful for correlation workflows (e.g., coupled cluster theory) applied to systems which include a lot of vacuum."
+  },
+  {
+    "objectID": "posts/2025-10-natcomm/index.html",
+    "href": "posts/2025-10-natcomm/index.html",
+    "title": "Publication in Nature Communications",
+    "section": "",
+    "text": "Understanding discrepancies in noncovalent interaction energies from wavefunction theories for large molecules\n\n\n\n\n\nOur paper on noncovalent interactions is now published in Nature Communications. We investigate why two of the most trusted methods in quantum chemistry, CCSD(T) and DMC, have shown puzzling disagreements for large molecules. We identify an issue in the standard CCSD(T) method and show how our CCSD(cT) approach fixes this."
   },
   {
     "objectID": "theses.html",
