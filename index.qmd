@@ -1,7 +1,23 @@
 ---
-title: "Schaefer Lab"
+title: "Computational Materials Science from First-Principles"
 ---
 
-This is a Quarto website.
+We explore quantum phenomena in fields like surface science and heterogeneous catalysis by developing and applying scalable wavefunction based algorithms to solve the many-body Schrödinger equation with high accuracy. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+We aim to enhance the synergy between experimental and computational approaches by addressing key limitations in state-of-the art computational methods. Our research contributes to the broader goal of developing new functional materials to aid the crucial transition to greener and more efficient industrial processes.
+
+---
+
+## News
+
+**March 2026 - Congratulations to Francesco Mereto**
+*Virtual Orbital Space Compression via Davidson-Based techniques*
+Francesco Mereto successfully passed his Master's exam. In his thesis he developed enhanced Davidson algorithms to significantly speed up compression techniques of the virtual orbital space starting from the unbiased plane wave basis. 
+
+**October 2025 - Publication in Nature Communications**
+*Understanding discrepancies in noncovalent interaction energies from wavefunction theories for large molecules*
+Our paper on noncovalent interactions is now published in Nature Communications. We investigate why two of the most trusted methods in quantum chemistry, CCSD(T) and DMC, have shown puzzling disagreements for large molecules. 
+
+**June 2025 - Publication in Nature Chemistry**
+*An accurate and efficient framework for modelling the surface chemistry of ionic materials*
+Benjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach.

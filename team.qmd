@@ -1,0 +1,27 @@
+---
+title: "Our Team"
+listing:
+  - id: current-team
+    contents: team
+    type: grid
+    fields: [image, title, subtitle]
+  - id: alumni-team
+    contents: alumni
+    type: table
+    fields: [title, subtitle]
+    sort: "title"
+---
+
+## Current Members
+
+:::{#current-team}
+:::
+
+---
+
+## Alumni
+
+We are proud of the students and researchers who have contributed to the Schäfer Lab.
+
+:::{#alumni-team}
+:::

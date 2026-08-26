@@ -1,0 +1,19 @@
+---
+title: "Theses Available"
+---
+
+We are always looking for motivated students to join the lab. If you are interested in computational materials science, quantum chemistry, or wavefunction-based algorithms, please contact us.
+
+::: {.callout-note icon=false}
+## Master's Thesis: [Title of Open Project]
+**Description:** *(Paste your open project description here. e.g., Developing low-scaling algorithms for many-body exchange-like diagrams...)*
+
+**Requirements:** Strong background in theoretical physics/chemistry and programming experience (Python/C++).
+:::
+
+::: {.callout-note icon=false}
+## Bachelor's Project: [Title of Open Project]
+**Description:** *(Paste description here)*
+:::
+
+If you have your own ideas for a project related to our research interests, feel free to send an email to discuss it!

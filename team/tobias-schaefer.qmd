@@ -1,0 +1,23 @@
+---
+title: "Tobias Schäfer"
+subtitle: "Principal Investigator"
+image: ../images/profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/your-profile
+    - icon: github
+      text: Github
+      href: https://github.com/toschaefer
+---
+
+Tobias Schäfer leads the Schäfer Lab in Vienna. His research focuses on developing scalable wavefunction-based algorithms for computational materials science.
+
+## Education
+**Ph.D in Chemistry** | University Name | Year
+
+## Experience
+**Principal Investigator** | Schäfer Lab Vienna | Present
