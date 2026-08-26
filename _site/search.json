@@ -9,16 +9,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Computational Materials Science from First-Principles",
+    "title": "Schäfer Lab",
     "section": "",
     "text": "We explore quantum phenomena in fields like surface science and heterogeneous catalysis by developing and applying scalable wavefunction based algorithms to solve the many-body Schrödinger equation with high accuracy.\nWe aim to enhance the synergy between experimental and computational approaches by addressing key limitations in state-of-the art computational methods. Our research contributes to the broader goal of developing new functional materials to aid the crucial transition to greener and more efficient industrial processes."
   },
   {
     "objectID": "index.html#news",
     "href": "index.html#news",
-    "title": "Computational Materials Science from First-Principles",
+    "title": "Schäfer Lab",
     "section": "News",
-    "text": "News\nMarch 2026 - Congratulations to Francesco Mereto Virtual Orbital Space Compression via Davidson-Based techniques Francesco Mereto successfully passed his Master’s exam. In his thesis he developed enhanced Davidson algorithms to significantly speed up compression techniques of the virtual orbital space starting from the unbiased plane wave basis.\nOctober 2025 - Publication in Nature Communications Understanding discrepancies in noncovalent interaction energies from wavefunction theories for large molecules Our paper on noncovalent interactions is now published in Nature Communications. We investigate why two of the most trusted methods in quantum chemistry, CCSD(T) and DMC, have shown puzzling disagreements for large molecules.\nJune 2025 - Publication in Nature Chemistry An accurate and efficient framework for modelling the surface chemistry of ionic materials Benjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach."
+    "text": "News"
   },
   {
     "objectID": "team/tobias-schaefer.html",
@@ -60,7 +60,7 @@
     "href": "team.html#alumni",
     "title": "Our Team",
     "section": "Alumni",
-    "text": "Alumni\nWe are proud of the students and researchers who have contributed to the Schäfer Lab.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nSubtitle\n\n\n\n\n\n\n\n\nAlexander Rumpf\n\n\nProject Work (Feb 2024): Bonding Orbitals in Solids\n\n\n\n\n\n\nNo matching items"
+    "text": "Alumni\n\n\n\n\n\nAlexander Rumpf\n\n\nProject Work (Feb 2024): Bonding Orbitals in Solids\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "theses.html",
@@ -89,5 +89,12 @@
     "title": "Publications",
     "section": "",
     "text": "Our lab focuses on developing and applying scalable wavefunction-based algorithms, investigating surface science, heterogeneous catalysis, and quantum phenomena.\nBecause our publication record is frequently updated, we maintain our comprehensive lists of articles, preprints, and theses on the following academic networks.\nPlease visit the profiles below for the most up-to-date information on our research output:\n\n\n\nGoogle Scholar\nAccess citation metrics, h-index, and a complete chronological list of all peer-reviewed articles.\n\n\nResearchGate\nView preprints, conference proceedings, and our latest ongoing projects.\n\n\nORCID\nView a verified record of our academic publications and funding history.\n\n\n\n(Optional: You could manually paste the citations of your 3-5 most impactful “Selected Publications” here using a bulleted list, and let Google Scholar handle the rest)."
+  },
+  {
+    "objectID": "posts/2026-03-mereto/index.html",
+    "href": "posts/2026-03-mereto/index.html",
+    "title": "Congratulations to Francesco Mereto",
+    "section": "",
+    "text": "Francesco Mereto successfully passed his Master’s exam.\nIn his thesis, he developed enhanced Davidson algorithms to significantly speed up compression techniques of the virtual orbital space starting from the unbiased plane wave basis. This is particularly useful for correlation workflows (e.g., coupled cluster theory) applied to systems which include a lot of vacuum."
   }
 ]

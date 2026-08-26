@@ -7,7 +7,7 @@ listing:
     fields: [image, title, subtitle]
   - id: alumni-team
     contents: alumni
-    type: table
+    type: default
     fields: [title, subtitle]
     sort: "title"
 ---
@@ -20,8 +20,6 @@ listing:
 ---
 
 ## Alumni
-
-We are proud of the students and researchers who have contributed to the Schäfer Lab.
 
 :::{#alumni-team}
 :::

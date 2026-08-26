@@ -1,0 +1,10 @@
+---
+title: "Congratulations to Francesco Mereto"
+date: "2026-03-01"
+categories: [Theses]
+image: "mereto.png"
+---
+
+Francesco Mereto successfully passed his Master's exam. 
+
+In his thesis, he developed enhanced Davidson algorithms to significantly speed up compression techniques of the virtual orbital space starting from the unbiased plane wave basis. This is particularly useful for correlation workflows (e.g., coupled cluster theory) applied to systems which include a lot of vacuum.

@@ -5,5 +5,11 @@
       "/team/tobias-schaefer.html",
       "/alumni/alexander-rumpf.html"
     ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/2026-03-mereto/index.html"
+    ]
   }
 ]
