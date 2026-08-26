@@ -1,10 +1,80 @@
 [
   {
+    "objectID": "team/tobias-schaefer.html",
+    "href": "team/tobias-schaefer.html",
+    "title": "Tobias Schäfer",
+    "section": "",
+    "text": "Tobias Schäfer leads the Schäfer Lab in Vienna. His research focuses on developing scalable wavefunction-based algorithms for computational materials science."
+  },
+  {
+    "objectID": "team/tobias-schaefer.html#education",
+    "href": "team/tobias-schaefer.html#education",
+    "title": "Tobias Schäfer",
+    "section": "Education",
+    "text": "Education\nPh.D in Chemistry | University Name | Year"
+  },
+  {
+    "objectID": "team/tobias-schaefer.html#experience",
+    "href": "team/tobias-schaefer.html#experience",
+    "title": "Tobias Schäfer",
+    "section": "Experience",
+    "text": "Experience\nPrincipal Investigator | Schäfer Lab Vienna | Present"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Schaefer Lab",
+    "title": "Computational Materials Science from First-Principles",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "We explore quantum phenomena in fields like surface science and heterogeneous catalysis by developing and applying scalable wavefunction based algorithms to solve the many-body Schrödinger equation with high accuracy.\nWe aim to enhance the synergy between experimental and computational approaches by addressing key limitations in state-of-the art computational methods. Our research contributes to the broader goal of developing new functional materials to aid the crucial transition to greener and more efficient industrial processes."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Computational Materials Science from First-Principles",
+    "section": "News",
+    "text": "News\nMarch 2026 - Congratulations to Francesco Mereto Virtual Orbital Space Compression via Davidson-Based techniques Francesco Mereto successfully passed his Master’s exam. In his thesis he developed enhanced Davidson algorithms to significantly speed up compression techniques of the virtual orbital space starting from the unbiased plane wave basis.\nOctober 2025 - Publication in Nature Communications Understanding discrepancies in noncovalent interaction energies from wavefunction theories for large molecules Our paper on noncovalent interactions is now published in Nature Communications. We investigate why two of the most trusted methods in quantum chemistry, CCSD(T) and DMC, have shown puzzling disagreements for large molecules.\nJune 2025 - Publication in Nature Chemistry An accurate and efficient framework for modelling the surface chemistry of ionic materials Benjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach."
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Our Team",
+    "section": "",
+    "text": "Principal Investigator\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "team.html#current-members",
+    "href": "team.html#current-members",
+    "title": "Our Team",
+    "section": "",
+    "text": "Principal Investigator\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "team.html#alumni",
+    "href": "team.html#alumni",
+    "title": "Our Team",
+    "section": "Alumni",
+    "text": "Alumni\nWe are proud of the students and researchers who have contributed to the Schäfer Lab.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nSubtitle\n\n\n\n\n\n\n\n\nAlexander Rumpf\n\n\nProject Work (Feb 2024): Bonding Orbitals in Solids\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "funding.html",
+    "href": "funding.html",
+    "title": "Funding",
+    "section": "",
+    "text": "Our research is made possible through the generous support of our funding agencies. We gratefully acknowledge the following organizations:\n(Paste your funding text/grants here)"
+  },
+  {
+    "objectID": "funding.html#open-positions",
+    "href": "funding.html#open-positions",
+    "title": "Funding",
+    "section": "Open Positions",
+    "text": "Open Positions\nIf you are interested in joining the lab and securing external funding, please reach out to discuss potential fellowship applications."
+  },
+  {
+    "objectID": "theses.html",
+    "href": "theses.html",
+    "title": "Theses Available",
+    "section": "",
+    "text": "We are always looking for motivated students to join the lab. If you are interested in computational materials science, quantum chemistry, or wavefunction-based algorithms, please contact us.\n\n\n\n\n\n\nNoteMaster’s Thesis: [Title of Open Project]\n\n\n\nDescription: (Paste your open project description here. e.g., Developing low-scaling algorithms for many-body exchange-like diagrams…)\nRequirements: Strong background in theoretical physics/chemistry and programming experience (Python/C++).\n\n\n\n\n\n\n\n\nNoteBachelor’s Project: [Title of Open Project]\n\n\n\nDescription: (Paste description here)\n\n\nIf you have your own ideas for a project related to our research interests, feel free to send an email to discuss it!"
   },
   {
     "objectID": "about.html",
@@ -12,5 +82,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Our lab focuses on developing and applying scalable wavefunction-based algorithms, investigating surface science, heterogeneous catalysis, and quantum phenomena.\nBecause our publication record is frequently updated, we maintain our comprehensive lists of articles, preprints, and theses on the following academic networks.\nPlease visit the profiles below for the most up-to-date information on our research output:\n\n\n\nGoogle Scholar\nAccess citation metrics, h-index, and a complete chronological list of all peer-reviewed articles.\n\n\nResearchGate\nView preprints, conference proceedings, and our latest ongoing projects.\n\n\nORCID\nView a verified record of our academic publications and funding history.\n\n\n\n(Optional: You could manually paste the citations of your 3-5 most impactful “Selected Publications” here using a bulleted list, and let Google Scholar handle the rest)."
   }
 ]

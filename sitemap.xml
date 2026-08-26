@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://toschaefer.github.io/schaeferlab-website/team/tobias-schaefer.html</loc>
+    <lastmod>2026-08-26T11:52:10.811Z</lastmod>
+  </url>
+  <url>
     <loc>https://toschaefer.github.io/schaeferlab-website/index.html</loc>
-    <lastmod>2026-08-26T08:41:07.274Z</lastmod>
+    <lastmod>2026-08-26T11:52:10.811Z</lastmod>
+  </url>
+  <url>
+    <loc>https://toschaefer.github.io/schaeferlab-website/team.html</loc>
+    <lastmod>2026-08-26T11:52:10.811Z</lastmod>
+  </url>
+  <url>
+    <loc>https://toschaefer.github.io/schaeferlab-website/funding.html</loc>
+    <lastmod>2026-08-26T11:52:10.811Z</lastmod>
+  </url>
+  <url>
+    <loc>https://toschaefer.github.io/schaeferlab-website/alumni/alexander-rumpf.html</loc>
+    <lastmod>2026-08-26T11:52:10.811Z</lastmod>
+  </url>
+  <url>
+    <loc>https://toschaefer.github.io/schaeferlab-website/theses.html</loc>
+    <lastmod>2026-08-26T11:52:10.811Z</lastmod>
   </url>
   <url>
     <loc>https://toschaefer.github.io/schaeferlab-website/about.html</loc>
-    <lastmod>2026-08-26T08:41:07.274Z</lastmod>
+    <lastmod>2026-08-26T11:52:10.811Z</lastmod>
+  </url>
+  <url>
+    <loc>https://toschaefer.github.io/schaeferlab-website/publications.html</loc>
+    <lastmod>2026-08-26T11:52:10.811Z</lastmod>
   </url>
 </urlset>
