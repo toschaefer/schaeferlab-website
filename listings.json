@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/index.html",
+    "items": [
+      "/posts/2026-03-mereto/index.html"
+    ]
+  },
+  {
     "listing": "/team.html",
     "items": [
       "/team/tobias-schaefer.html",

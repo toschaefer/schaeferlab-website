@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Schäfer Lab</title>
+<link>https://toschaefer.github.io/schaeferlab-website/</link>
+<atom:link href="https://toschaefer.github.io/schaeferlab-website/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Sun, 01 Mar 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Congratulations to Francesco Mereto</title>
+  <link>https://toschaefer.github.io/schaeferlab-website/posts/2026-03-mereto/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Francesco Mereto successfully passed his Master’s exam.</p>
+<p>In his thesis, he developed enhanced Davidson algorithms to significantly speed up compression techniques of the virtual orbital space starting from the unbiased plane wave basis. This is particularly useful for correlation workflows (e.g., coupled cluster theory) applied to systems which include a lot of vacuum.</p>
+
+
+
+ ]]></description>
+  <category>Theses</category>
+  <guid>https://toschaefer.github.io/schaeferlab-website/posts/2026-03-mereto/</guid>
+  <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://toschaefer.github.io/schaeferlab-website/posts/2026-03-mereto/mereto.png" medium="image" type="image/png" height="105" width="144"/>
+</item>
+</channel>
+</rss>
