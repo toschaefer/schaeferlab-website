@@ -1,12 +1,12 @@
 ---
-title: "Publication in *Nature Chemistry*"
-date: "2025-08-15"
+title: "Publication in *J. Phys. Chem. Lett*"
+date: "2024-12-20"
 categories: [Paper]
-image: "shi.png"
+image: "metals.jpg"
 ---
 
-[An accurate and efficient framework for modelling the surface chemistry of ionic materials](https://doi.org/10.1038/s41557-025-01884-y)
+[An accurate and efficient framework for modelling the surface chemistry of ionic materials](https://doi.org/10.1021/acs.jpclett.4c03134)
 
-![](shi.png){fig-align="center" width="50%"}
+![](metals.jpg){fig-align="center" width="50%"}
 
-Benjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach. This makes it practical to apply highly accurate correlated wavefunction theory, achieving results comparable to experiments at a manageable computational cost. It was an honor to contribute to this work in a great collaboration with Benjamin X. Shi, Andrea Zen, Angelos Michaelides, and coworkers.
+In this publication we introduce a novel finite-size correction scheme to enable coupled cluster theory for highly accurate materials modeling of metals. Using the example of metal surface energies, which are highly relevant due to their wide range of applications, we demonstrated that this observable can be reliably reproduced with high precision for the first time.

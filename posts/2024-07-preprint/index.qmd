@@ -1,12 +1,12 @@
 ---
-title: "Publication in *Nature Chemistry*"
-date: "2025-08-15"
+title: "Preprint"
+date: "2025-07-01"
 categories: [Paper]
-image: "shi.png"
+image: "preprint.png"
 ---
 
-[An accurate and efficient framework for modelling the surface chemistry of ionic materials](https://doi.org/10.1038/s41557-025-01884-y)
+[Understanding Discrepancies of Wavefunction Theories for Large Molecules](https://doi.org/10.48550/arXiv.2407.01442)
 
-![](shi.png){fig-align="center" width="50%"}
+![](preprint.png){fig-align="center" width="50%"}
 
-Benjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach. This makes it practical to apply highly accurate correlated wavefunction theory, achieving results comparable to experiments at a manageable computational cost. It was an honor to contribute to this work in a great collaboration with Benjamin X. Shi, Andrea Zen, Angelos Michaelides, and coworkers.
+This work demonstrates that one of the most widely-used and accurate quantum chemistry approaches – CCSD(T) theory – in certain cases binds noncovalently interacting large molecular complexes too strongly. Our findings show that a simple yet efficient modification denoted as CCSD(cT) remedies these shortcomings.

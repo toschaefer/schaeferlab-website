@@ -1,12 +1,13 @@
 ---
-title: "Publication in *Nature Chemistry*"
-date: "2025-08-15"
-categories: [Paper]
-image: "shi.png"
+title: "Congratulations to Alexander Rumpf"
+date: "2024-02-01"
+categories: [Theses]
+image: "rumpf_project.png"
 ---
 
-[An accurate and efficient framework for modelling the surface chemistry of ionic materials](https://doi.org/10.1038/s41557-025-01884-y)
+Alexander Rumpf successfully finished his project work *Bonding Orbitals in Solids*.
 
-![](shi.png){fig-align="center" width="50%"}
+![](rumpf_project.png){fig-align="center" width="50%"}
 
-Benjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach. This makes it practical to apply highly accurate correlated wavefunction theory, achieving results comparable to experiments at a manageable computational cost. It was an honor to contribute to this work in a great collaboration with Benjamin X. Shi, Andrea Zen, Angelos Michaelides, and coworkers.
+In this work he focused on two questions: (1) Does the suitability to construct sparse tensors of localised orbitals deteriorate for materials with small band gaps and diffuse density? (2) Are there trends in the orbital spreads or the sparsity concerning the bandgap or lattice constant?
+We will be publishing the intriguing results soon.

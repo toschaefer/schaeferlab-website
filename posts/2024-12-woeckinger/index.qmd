@@ -1,12 +1,12 @@
 ---
-title: "Publication in *Nature Chemistry*"
-date: "2025-08-15"
-categories: [Paper]
-image: "shi.png"
+title: "Congratulations to Benjamin Wöckinger"
+date: "2024-12-02"
+categories: [Theses]
+image: "woeckinger.png"
 ---
 
-[An accurate and efficient framework for modelling the surface chemistry of ionic materials](https://doi.org/10.1038/s41557-025-01884-y)
+Benjamin Wöckinger successfully passed his Master's exam about orbital localization in solids. 
 
-![](shi.png){fig-align="center" width="50%"}
+![](woeckinger.png){fig-align="center" width="50%"}
 
-Benjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach. This makes it practical to apply highly accurate correlated wavefunction theory, achieving results comparable to experiments at a manageable computational cost. It was an honor to contribute to this work in a great collaboration with Benjamin X. Shi, Andrea Zen, Angelos Michaelides, and coworkers.
+In his thesis [Orbital Localization in Solids by Riemannian Optimization](https://dx.doi.org/10.34726/hss.2024.124955?locale=en) he implemented and tested different optimization algorithms like BFGS, CG, and SA for orbital localization. Specifically he focused on Intrinsic Bond Orbitals (IBOs). The unitary constraints involved in orbital transformations are inherently satisfied through Riemannian optimization, where cost functions are optimized on Riemannian manifolds. 

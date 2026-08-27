@@ -10,4 +10,4 @@ Methods for CO Adsorption on TiO2(110)*.
 
 ![](rumpf.png){fig-align="center" width="50%"}
 
-In his thesis, he developed enhanced Davidson algorithms to significantly speed up compression techniques of the virtual orbital space starting from the unbiased plane wave basis. This is particularly useful for correlation workflows (e.g., coupled cluster theory) applied to systems which include a lot of vacuum.
+In his [thesis](https://doi.org/10.34726/hss.2026.140415), he systematically evaluated various fragment construction schemes to accurately capture the electronic structure of carbon monoxide adsorbed on titanium dioxide. His highly precise theoretical predictions reveal a significant discrepancy with experimental data, exposing a fascinating puzzle that highlights the complex influence of temperature, vibrations, surface defects and specific measurement techniques on the observed adsorption behavior.

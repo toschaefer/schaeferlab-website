@@ -2,18 +2,39 @@
 title: "Theses Available"
 ---
 
-We are always looking for motivated students to join the lab. If you are interested in computational materials science, quantum chemistry, or wavefunction-based algorithms, please contact us.
+## Looking for a Bachelor's, Master's, or Doctoral Thesis Project?
 
-::: {.callout-note icon=false}
-## Master's Thesis: [Title of Open Project]
-**Description:** *(Paste your open project description here. e.g., Developing low-scaling algorithms for many-body exchange-like diagrams...)*
+We offer engaging and challenging research projects closely aligned with our research in computational materials physics and quantum chemistry. If you're interested, feel free to reach out to us—we’d love to hear from you! 
 
-**Requirements:** Strong background in theoretical physics/chemistry and programming experience (Python/C++).
-:::
+Supporting students and fostering the careers of young researchers are central to our group’s mission. We aim to foster an inclusive environment and particularly welcome female researchers and encourage their participation in our research. We also provide opportunities for longer-term projects, which can be divided into smaller stages, such as a Master's thesis followed by a Doctoral thesis. 
 
-::: {.callout-note icon=false}
-## Bachelor's Project: [Title of Open Project]
-**Description:** *(Paste description here)*
-:::
+Our research focuses on computational methods. To make the most of your research experience in our group, you should be enthusiastic about quantum mechanics, programming, and numerical methods.
 
-If you have your own ideas for a project related to our research interests, feel free to send an email to discuss it!
+
+
+## Lab Philosophy
+
+The following primarily applies to graduate students but also serves as a guideline for Bachelor's and Master's projects.
+
+### You can expect me ...
+
+*   ... to share my overview of the research field.
+*   ... to meet with you regularly to discuss progress and future plans.
+*   ... to help you prepare and edit drafts of written work (e.g. thesis / papers).
+*   ... to be supportive of your career development (e.g. reference letters, support for writing research proposals).
+*   ... to introduce you to my scientific collaborators.
+*   ... to recommend you suitable international conferences/workshops/schools.
+*   ... to do my best to promote a fair, diverse and motivating work environment.
+*   ... to be understanding of your family plans.
+
+### I expect you ...
+
+*   ... to ask questions, if you don't understand, don't be silent!
+*   ... to conduct research with a high level of scientific integrity. For research output, I expect you to prioritize quality over quantity.
+*   ... to develop a broad overview of the field, a good knowledge of the key literature, the history of the field, and also having your own interpretation.
+*   ... to respect the [FAIR principle](https://www.go-fair.org/fair-principles/) for your work.
+*   ... to try to pursue funding opportunities (depending of your career status).
+*   ... to treat all of your lab mates with respect.
+
+<br>
+*This is inspired by the [lab philosophy of Bingqing Cheng](https://cheng-group.net/philosophy/). Last update 07 Jan 2025.*
