@@ -72,9 +72,9 @@
   {
     "objectID": "posts/2024-12-metals/index.html",
     "href": "posts/2024-12-metals/index.html",
-    "title": "Publication in Nature Chemistry",
+    "title": "Publication in J. Phys. Chem. Lett",
     "section": "",
-    "text": "An accurate and efficient framework for modelling the surface chemistry of ionic materials\n\n\n\n\n\nBenjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach. This makes it practical to apply highly accurate correlated wavefunction theory, achieving results comparable to experiments at a manageable computational cost. It was an honor to contribute to this work in a great collaboration with Benjamin X. Shi, Andrea Zen, Angelos Michaelides, and coworkers."
+    "text": "An accurate and efficient framework for modelling the surface chemistry of ionic materials\n\n\n\n\n\nIn this publication we introduce a novel finite-size correction scheme to enable coupled cluster theory for highly accurate materials modeling of metals. Using the example of metal surface energies, which are highly relevant due to their wide range of applications, we demonstrated that this observable can be reliably reproduced with high precision for the first time."
   },
   {
     "objectID": "posts/2025-10-natcomm/index.html",
@@ -88,7 +88,7 @@
     "href": "posts/2026-03-rumpf/index.html",
     "title": "Congratulations to Alexander Rumpf",
     "section": "",
-    "text": "Alexander Rumpf successfully passed his Master’s exam about Fragment-Based Embedding of Correlated Wavefunction Methods for CO Adsorption on TiO2(110).\n\n\n\n\n\nIn his thesis, he developed enhanced Davidson algorithms to significantly speed up compression techniques of the virtual orbital space starting from the unbiased plane wave basis. This is particularly useful for correlation workflows (e.g., coupled cluster theory) applied to systems which include a lot of vacuum."
+    "text": "Alexander Rumpf successfully passed his Master’s exam about Fragment-Based Embedding of Correlated Wavefunction Methods for CO Adsorption on TiO2(110).\n\n\n\n\n\nIn his thesis, he systematically evaluated various fragment construction schemes to accurately capture the electronic structure of carbon monoxide adsorbed on titanium dioxide. His highly precise theoretical predictions reveal a significant discrepancy with experimental data, exposing a fascinating puzzle that highlights the complex influence of temperature, vibrations, surface defects and specific measurement techniques on the observed adsorption behavior."
   },
   {
     "objectID": "posts/2025-08-shi/index.html",
@@ -100,23 +100,23 @@
   {
     "objectID": "posts/2024-02-rumpf/index.html",
     "href": "posts/2024-02-rumpf/index.html",
-    "title": "Publication in Nature Chemistry",
+    "title": "Congratulations to Alexander Rumpf",
     "section": "",
-    "text": "An accurate and efficient framework for modelling the surface chemistry of ionic materials\n\n\n\n\n\nBenjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach. This makes it practical to apply highly accurate correlated wavefunction theory, achieving results comparable to experiments at a manageable computational cost. It was an honor to contribute to this work in a great collaboration with Benjamin X. Shi, Andrea Zen, Angelos Michaelides, and coworkers."
+    "text": "Alexander Rumpf successfully finished his project work Bonding Orbitals in Solids.\n\n\n\n\n\nIn this work he focused on two questions: (1) Does the suitability to construct sparse tensors of localised orbitals deteriorate for materials with small band gaps and diffuse density? (2) Are there trends in the orbital spreads or the sparsity concerning the bandgap or lattice constant? We will be publishing the intriguing results soon."
   },
   {
     "objectID": "posts/2024-07-preprint/index.html",
     "href": "posts/2024-07-preprint/index.html",
-    "title": "Publication in Nature Chemistry",
+    "title": "Preprint",
     "section": "",
-    "text": "An accurate and efficient framework for modelling the surface chemistry of ionic materials\n\n\n\n\n\nBenjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach. This makes it practical to apply highly accurate correlated wavefunction theory, achieving results comparable to experiments at a manageable computational cost. It was an honor to contribute to this work in a great collaboration with Benjamin X. Shi, Andrea Zen, Angelos Michaelides, and coworkers."
+    "text": "Understanding Discrepancies of Wavefunction Theories for Large Molecules\n\n\n\n\n\nThis work demonstrates that one of the most widely-used and accurate quantum chemistry approaches – CCSD(T) theory – in certain cases binds noncovalently interacting large molecular complexes too strongly. Our findings show that a simple yet efficient modification denoted as CCSD(cT) remedies these shortcomings."
   },
   {
     "objectID": "posts/2024-12-woeckinger/index.html",
     "href": "posts/2024-12-woeckinger/index.html",
-    "title": "Publication in Nature Chemistry",
+    "title": "Congratulations to Benjamin Wöckinger",
     "section": "",
-    "text": "An accurate and efficient framework for modelling the surface chemistry of ionic materials\n\n\n\n\n\nBenjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach. This makes it practical to apply highly accurate correlated wavefunction theory, achieving results comparable to experiments at a manageable computational cost. It was an honor to contribute to this work in a great collaboration with Benjamin X. Shi, Andrea Zen, Angelos Michaelides, and coworkers."
+    "text": "Benjamin Wöckinger successfully passed his Master’s exam about orbital localization in solids.\n\n\n\n\n\nIn his thesis Orbital Localization in Solids by Riemannian Optimization he implemented and tested different optimization algorithms like BFGS, CG, and SA for orbital localization. Specifically he focused on Intrinsic Bond Orbitals (IBOs). The unitary constraints involved in orbital transformations are inherently satisfied through Riemannian optimization, where cost functions are optimized on Riemannian manifolds."
   },
   {
     "objectID": "posts/2026-03-mereto/index.html",
@@ -130,7 +130,21 @@
     "href": "theses.html",
     "title": "Theses Available",
     "section": "",
-    "text": "We are always looking for motivated students to join the lab. If you are interested in computational materials science, quantum chemistry, or wavefunction-based algorithms, please contact us.\n\n\n\n\n\n\nNoteMaster’s Thesis: [Title of Open Project]\n\n\n\nDescription: (Paste your open project description here. e.g., Developing low-scaling algorithms for many-body exchange-like diagrams…)\nRequirements: Strong background in theoretical physics/chemistry and programming experience (Python/C++).\n\n\n\n\n\n\n\n\nNoteBachelor’s Project: [Title of Open Project]\n\n\n\nDescription: (Paste description here)\n\n\nIf you have your own ideas for a project related to our research interests, feel free to send an email to discuss it!"
+    "text": "We offer engaging and challenging research projects closely aligned with our research in computational materials physics and quantum chemistry. If you’re interested, feel free to reach out to us—we’d love to hear from you!\nSupporting students and fostering the careers of young researchers are central to our group’s mission. We aim to foster an inclusive environment and particularly welcome female researchers and encourage their participation in our research. We also provide opportunities for longer-term projects, which can be divided into smaller stages, such as a Master’s thesis followed by a Doctoral thesis.\nOur research focuses on computational methods. To make the most of your research experience in our group, you should be enthusiastic about quantum mechanics, programming, and numerical methods."
+  },
+  {
+    "objectID": "theses.html#looking-for-a-bachelors-masters-or-doctoral-thesis-project",
+    "href": "theses.html#looking-for-a-bachelors-masters-or-doctoral-thesis-project",
+    "title": "Theses Available",
+    "section": "",
+    "text": "We offer engaging and challenging research projects closely aligned with our research in computational materials physics and quantum chemistry. If you’re interested, feel free to reach out to us—we’d love to hear from you!\nSupporting students and fostering the careers of young researchers are central to our group’s mission. We aim to foster an inclusive environment and particularly welcome female researchers and encourage their participation in our research. We also provide opportunities for longer-term projects, which can be divided into smaller stages, such as a Master’s thesis followed by a Doctoral thesis.\nOur research focuses on computational methods. To make the most of your research experience in our group, you should be enthusiastic about quantum mechanics, programming, and numerical methods."
+  },
+  {
+    "objectID": "theses.html#lab-philosophy",
+    "href": "theses.html#lab-philosophy",
+    "title": "Theses Available",
+    "section": "Lab Philosophy",
+    "text": "Lab Philosophy\nThe following primarily applies to graduate students but also serves as a guideline for Bachelor’s and Master’s projects.\n\nYou can expect me …\n\n… to share my overview of the research field.\n… to meet with you regularly to discuss progress and future plans.\n… to help you prepare and edit drafts of written work (e.g. thesis / papers).\n… to be supportive of your career development (e.g. reference letters, support for writing research proposals).\n… to introduce you to my scientific collaborators.\n… to recommend you suitable international conferences/workshops/schools.\n… to do my best to promote a fair, diverse and motivating work environment.\n… to be understanding of your family plans.\n\n\n\nI expect you …\n\n… to ask questions, if you don’t understand, don’t be silent!\n… to conduct research with a high level of scientific integrity. For research output, I expect you to prioritize quality over quantity.\n… to develop a broad overview of the field, a good knowledge of the key literature, the history of the field, and also having your own interpretation.\n… to respect the FAIR principle for your work.\n… to try to pursue funding opportunities (depending of your career status).\n… to treat all of your lab mates with respect.\n\n This is inspired by the lab philosophy of Bingqing Cheng. Last update 07 Jan 2025."
   },
   {
     "objectID": "about.html",
