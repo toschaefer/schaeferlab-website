@@ -9,14 +9,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Schäfer Lab",
+    "title": "Computational Materials Science / Quantum Chemistry",
     "section": "",
-    "text": "We explore quantum phenomena in fields like surface science and heterogeneous catalysis by developing and applying scalable wavefunction based algorithms to solve the many-body Schrödinger equation with high accuracy.\nWe aim to enhance the synergy between experimental and computational approaches by addressing key limitations in state-of-the art computational methods. Our research contributes to the broader goal of developing new functional materials to aid the crucial transition to greener and more efficient industrial processes."
+    "text": "We work on making highly accurate many-electron correlation methods computationally affordable for materials and large molecular complexes. We focus primarily on plane-wave based approaches, coupled cluster methods, and embedding techniques.\nThe drive behind our group is practical: we want to create workflows and software tools that researches actually use. We apply our tools to study complex materials, compute high-accuracy reference databases to train AI models, and spend a lot of our time developing and maintaining software for the broader quantum chemistry and materials physics communities."
   },
   {
     "objectID": "index.html#news",
     "href": "index.html#news",
-    "title": "Schäfer Lab",
+    "title": "Computational Materials Science / Quantum Chemistry",
     "section": "News",
     "text": "News"
   },
@@ -44,21 +44,21 @@
   {
     "objectID": "team.html",
     "href": "team.html",
-    "title": "Our Team",
+    "title": "Team",
     "section": "",
-    "text": "Principal Investigator\n\n\n\n\n\nNo matching items"
+    "text": "Doctoral researcher (MECS funded)\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "team.html#current-members",
     "href": "team.html#current-members",
-    "title": "Our Team",
+    "title": "Team",
     "section": "",
-    "text": "Principal Investigator\n\n\n\n\n\nNo matching items"
+    "text": "Doctoral researcher (MECS funded)\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "team.html#alumni",
     "href": "team.html#alumni",
-    "title": "Our Team",
+    "title": "Team",
     "section": "Alumni",
     "text": "Alumni\n\n\n\n\n\nAlexander Rumpf\n\n\nProject Work (Feb 2024): Bonding Orbitals in Solids\n\n\n\n\n\n\n\n\nNo matching items"
   },
@@ -166,5 +166,75 @@
     "title": "Theses Available",
     "section": "",
     "text": "We offer engaging and challenging research projects closely aligned with our research in computational materials physics and quantum chemistry. If you’re interested, feel free to reach out to us—we’d love to hear from you!\nSupporting students and fostering the careers of young researchers are central to our group’s mission. We aim to foster an inclusive environment and particularly welcome female researchers and encourage their participation in our research. We also provide opportunities for longer-term projects, which can be divided into smaller stages, such as a Master’s thesis followed by a Doctoral thesis.\nOur research focuses on computational methods. To make the most of your research experience in our group, you should be enthusiastic about quantum mechanics, programming, and numerical methods."
+  },
+  {
+    "objectID": "team/maosheng-hao.html",
+    "href": "team/maosheng-hao.html",
+    "title": "Maosheng Hao",
+    "section": "",
+    "text": "bla"
+  },
+  {
+    "objectID": "team/maosheng-hao.html#education",
+    "href": "team/maosheng-hao.html#education",
+    "title": "Maosheng Hao",
+    "section": "Education",
+    "text": "Education\nPh.D in Chemistry | University Name | Year"
+  },
+  {
+    "objectID": "team/maosheng-hao.html#experience",
+    "href": "team/maosheng-hao.html#experience",
+    "title": "Maosheng Hao",
+    "section": "Experience",
+    "text": "Experience\nPrincipal Investigator | Schäfer Lab Vienna | Present"
+  },
+  {
+    "objectID": "team.html#members",
+    "href": "team.html#members",
+    "title": "Team",
+    "section": "",
+    "text": "Doctoral researcher (MECS funded)\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Codes",
+    "section": "",
+    "text": "codess"
+  },
+  {
+    "objectID": "codes.html",
+    "href": "codes.html",
+    "title": "Codes",
+    "section": "",
+    "text": "Selected contributions in software projects"
+  },
+  {
+    "objectID": "codes.html#dftk",
+    "href": "codes.html#dftk",
+    "title": "Codes",
+    "section": "DFTK",
+    "text": "DFTK"
+  },
+  {
+    "objectID": "codes.html#vasp",
+    "href": "codes.html#vasp",
+    "title": "Codes",
+    "section": "VASP",
+    "text": "VASP"
+  },
+  {
+    "objectID": "codes.html#psitk",
+    "href": "codes.html#psitk",
+    "title": "Codes",
+    "section": "PsiTK",
+    "text": "PsiTK"
+  },
+  {
+    "objectID": "publications.html#jo",
+    "href": "publications.html#jo",
+    "title": "Publications",
+    "section": "jo",
+    "text": "jo\nOur lab focuses on developing and applying scalable wavefunction-based algorithms, investigating surface science, heterogeneous catalysis, and quantum phenomena.\nBecause our publication record is frequently updated, we maintain our comprehensive lists of articles, preprints, and theses on the following academic networks.\nPlease visit the profiles below for the most up-to-date information on our research output:\n\n\n\nGoogle Scholar\nAccess citation metrics, h-index, and a complete chronological list of all peer-reviewed articles.\n\n\nResearchGate\nView preprints, conference proceedings, and our latest ongoing projects.\n\n\nORCID\nView a verified record of our academic publications and funding history.\n\n\n\n(Optional: You could manually paste the citations of your 3-5 most impactful “Selected Publications” here using a bulleted list, and let Google Scholar handle the rest)."
   }
 ]

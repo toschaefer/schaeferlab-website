@@ -1,5 +1,5 @@
 ---
-title: "Schäfer Lab"
+title: "Computational Materials Science / Quantum Chemistry"
 listing:
   contents: posts
   sort: "date desc"
@@ -10,11 +10,20 @@ listing:
   feed: true
 ---
 
-We explore quantum phenomena in fields like surface science and heterogeneous catalysis by developing and applying scalable wavefunction based algorithms to solve the many-body Schrödinger equation with high accuracy. 
+<!--We explore quantum phenomena in fields like surface science and heterogeneous catalysis by developing and applying scalable wavefunction based algorithms to solve the many-body Schrödinger equation with high accuracy. 
 
-We aim to enhance the synergy between experimental and computational approaches by addressing key limitations in state-of-the art computational methods. Our research contributes to the broader goal of developing new functional materials to aid the crucial transition to greener and more efficient industrial processes.
+We aim to enhance the synergy between experimental and computational approaches by addressing key limitations in state-of-the art computational methods. Our research contributes to the broader goal of developing new functional materials to aid the crucial transition to greener and more efficient industrial processes.-->
 
----
+<!--We develop reduced-cost workflows and algorithms for many-electron correlation methods for solids. 
+In particular we focus on plane wave based approaches, coupled cluster methods, and embedding techniques.
+This research is conducted in various contexts, such as studies of material properties, the creation of databases containing highly accurate reference values to serve as training data for AI models, and the maintenance and further development of software for the research community in the fields of quantum chemistry and materials physics.-->
+
+We work on making highly accurate many-electron correlation methods computationally affordable for materials and large molecular complexes. 
+We focus primarily on plane-wave based approaches, coupled cluster methods, and embedding techniques. 
+
+The drive behind our group is practical: we want to create workflows and software tools that researches actually use.
+We apply our tools to study complex materials, compute high-accuracy reference databases to train AI models, and spend a lot of our time developing and maintaining software for the broader quantum chemistry and materials physics communities.
+
 
 ## News
 

@@ -2,6 +2,10 @@
 title: "Publications"
 ---
 
+## Selected Publications
+
+## jo
+
 Our lab focuses on developing and applying scalable wavefunction-based algorithms, investigating surface science, heterogeneous catalysis, and quantum phenomena.
 
 Because our publication record is frequently updated, we maintain our comprehensive lists of articles, preprints, and theses on the following academic networks. 

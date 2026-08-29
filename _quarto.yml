@@ -10,8 +10,10 @@ website:
         text: Home
       - href: team.qmd
         text: Team
-      - href: funding.qmd
-        text: Funding
+      - href: codes.qmd
+        text: Codes
+      #- href: funding.qmd
+      #  text: Funding
       - href: theses.qmd
         text: Theses available
       - href: publications.qmd
@@ -21,4 +23,4 @@ format:
   html:
     theme: flatly
     css: styles.css
-    toc: true
+    toc: false
