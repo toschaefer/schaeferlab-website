@@ -9,7 +9,9 @@ listing:
     contents: alumni
     type: default
     fields: [title, subtitle]
-    sort: "title"
+    sort: 
+     - "order"
+     - "title"
 ---
 
 ## Members

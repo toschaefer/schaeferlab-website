@@ -1,6 +1,7 @@
 ---
 title: "Maosheng Hao"
 subtitle: "Doctoral researcher (MECS funded)"
+order: 2
 image: maosheng.jpg
 about:
   template: trestles

@@ -1,5 +1,5 @@
 ---
-title: "Computational Materials Science / Quantum Chemistry"
+title: "Schäfer Lab Home"
 listing:
   contents: posts
   sort: "date desc"
@@ -17,6 +17,8 @@ We aim to enhance the synergy between experimental and computational approaches 
 <!--We develop reduced-cost workflows and algorithms for many-electron correlation methods for solids. 
 In particular we focus on plane wave based approaches, coupled cluster methods, and embedding techniques.
 This research is conducted in various contexts, such as studies of material properties, the creation of databases containing highly accurate reference values to serve as training data for AI models, and the maintenance and further development of software for the research community in the fields of quantum chemistry and materials physics.-->
+
+## About
 
 We work on making highly accurate many-electron correlation methods computationally affordable for materials and large molecular complexes. 
 We focus primarily on plane-wave based approaches, coupled cluster methods, and embedding techniques. 

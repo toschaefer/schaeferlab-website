@@ -1,23 +1,53 @@
 ---
 title: "Tobias Schäfer"
 subtitle: "Principal Investigator"
+order: 1
 image: tschaefer.png
 about:
   template: trestles
   image-shape: round
   links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com/in/your-profile
     - icon: github
       text: Github
       href: https://github.com/toschaefer
+    - icon: flask
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=MhmPJNUAAAAJ&hl=en   
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/tschaefer-sc.bsky.social 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/tobias-schäfer-633649345
+ 
 ---
 
-Tobias Schäfer leads the Schäfer Lab in Vienna. His research focuses on developing scalable wavefunction-based algorithms for computational materials science.
+## Current position
+
+**Research Scientist** | University of Luxembourg 
+
+<!--**Affiliated Professor** | TU Wien -->
+
+
+## Previous positions
+
+[**PI of FWF ESPRIT grant**](https://www.fwf.ac.at/en/research-radar/10.55776/ESP335) | TU Wien | 2023-2026
+
+**Assistant Professor** | TU Wien | 2019-2023
+
+**Postdoctoral Researcher** | TU Wien | 2018-2019
+
+
+## Grants
+
+[**FWF ESPRIT grant**](https://www.fwf.ac.at/en/research-radar/10.55776/ESP335) | €300k | 2023-2026
+
+
 
 ## Education
-**Ph.D in Chemistry** | University Name | Year
+**PhD in Physics** | University of Vienna | 2018
 
-## Experience
-**Principal Investigator** | Schäfer Lab Vienna | Present
+**MSc in Physics** | University of Vienna | 2015
+
+**BSc in Physics** | Goethe University, Frankfurt | 2012
+

@@ -2,10 +2,18 @@
 title: "Codes"
 ---
 
-Selected contributions in software projects
+Our codes and selected contributions in software projects.
 
-## PsiTK
+## [PsiTK.jl](https://github.com/toschaefer/PsiTK.jl)
 
-## DFTK
+### A bridge between DFTK.jl and Cc4s
 
-## VASP
+## [DFTK.jl](https://docs.dftk.org)
+
+### Exact exchange and Hartree-Fock
+
+## [VASP](https://vasp.at/)
+
+### Embedding wavefunction methods
+
+### Quartic Scaling MP2 algorithm for solids
