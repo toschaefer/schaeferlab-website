@@ -1,4 +1,12 @@
 ---
 title: "Alexander Rumpf"
-subtitle: "Project Work (Feb 2024): Bonding Orbitals in Solids"
+subtitle: "Masters' student (2025-2026)"
+current_position: "PhD Candidate at TU Wien (2026)"
+order: 2
+#image: rumpf.jpg
+about:
+  template: trestles
+  #image-shape: round
 ---
+
+Master's thesis: [Fragment-Based Embedding of Correlated Wavefunction Methods for CO Adsorption on TiO2(110)](https://doi.org/10.34726/hss.2026.140415)

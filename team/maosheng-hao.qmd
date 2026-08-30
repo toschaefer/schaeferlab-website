@@ -1,24 +1,18 @@
 ---
 title: "Maosheng Hao"
-subtitle: "Doctoral researcher (MECS funded)"
+subtitle: "Doctoral researcher"
 order: 2
 image: maosheng.jpg
 about:
   template: trestles
   image-shape: round
   links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com/in/your-profile
-    - icon: github
-      text: Github
-      href: https://github.com/toschaefer
+    - icon: flask
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=haFbP8cAAAAJ&hl=en 
 ---
 
-bla
+## Current position
 
-## Education
-**Ph.D in Chemistry** | University Name | Year
+**Doctoral researcher** | [MECS](https://coe-mecs.at) funded | TU Wien
 
-## Experience
-**Principal Investigator** | Schäfer Lab Vienna | Present

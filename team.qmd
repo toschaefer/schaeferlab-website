@@ -5,13 +5,18 @@ listing:
     contents: team
     type: grid
     fields: [image, title, subtitle]
+    sort: 
+      - "order"
+      - "title"
   - id: alumni-team
     contents: alumni
-    type: default
-    fields: [title, subtitle]
-    sort: 
-     - "order"
-     - "title"
+    type: table
+    fields: [title, subtitle, current_position]
+    field-display-names:
+      title: "Name"
+      subtitle: "Role in Lab"
+      current_position: "Last known position"
+    sort: "title"
 ---
 
 ## Members
@@ -19,7 +24,6 @@ listing:
 :::{#current-team}
 :::
 
----
 
 ## Alumni
 
