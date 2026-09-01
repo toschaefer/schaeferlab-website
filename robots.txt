@@ -1,1 +1,1 @@
-Sitemap: https://toschaefer.github.io/schaeferlab/sitemap.xml
+Sitemap: https://toschaefer.github.io/sitemap.xml

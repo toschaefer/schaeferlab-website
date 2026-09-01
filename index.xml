@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>Schäfer Lab</title>
-<link>https://toschaefer.github.io/schaeferlab/</link>
-<atom:link href="https://toschaefer.github.io/schaeferlab/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://toschaefer.github.io/</link>
+<atom:link href="https://toschaefer.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.18</generator>
 <lastBuildDate>Tue, 24 Mar 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Congratulations to Alexander Rumpf</title>
-  <link>https://toschaefer.github.io/schaeferlab/posts/2026-03-rumpf/</link>
+  <link>https://toschaefer.github.io/posts/2026-03-rumpf/</link>
   <description><![CDATA[ 
 
 
@@ -22,7 +22,7 @@
 <p>Alexander Rumpf successfully passed his Master’s exam about <em>Fragment-Based Embedding of Correlated Wavefunction Methods for CO Adsorption on TiO2(110)</em>.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://toschaefer.github.io/schaeferlab/posts/2026-03-rumpf/rumpf.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+<p><img src="https://toschaefer.github.io/posts/2026-03-rumpf/rumpf.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
 </figure>
 </div>
 <p>In his <a href="https://doi.org/10.34726/hss.2026.140415">thesis</a>, he systematically evaluated various fragment construction schemes to accurately capture the electronic structure of carbon monoxide adsorbed on titanium dioxide. His highly precise theoretical predictions reveal a significant discrepancy with experimental data, exposing a fascinating puzzle that highlights the complex influence of temperature, vibrations, surface defects and specific measurement techniques on the observed adsorption behavior.</p>
@@ -31,13 +31,13 @@
 
  ]]></description>
   <category>Theses</category>
-  <guid>https://toschaefer.github.io/schaeferlab/posts/2026-03-rumpf/</guid>
+  <guid>https://toschaefer.github.io/posts/2026-03-rumpf/</guid>
   <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://toschaefer.github.io/schaeferlab/posts/2026-03-rumpf/rumpf.png" medium="image" type="image/png" height="89" width="144"/>
+  <media:content url="https://toschaefer.github.io/posts/2026-03-rumpf/rumpf.png" medium="image" type="image/png" height="89" width="144"/>
 </item>
 <item>
   <title>Congratulations to Francesco Mereto</title>
-  <link>https://toschaefer.github.io/schaeferlab/posts/2026-03-mereto/</link>
+  <link>https://toschaefer.github.io/posts/2026-03-mereto/</link>
   <description><![CDATA[ 
 
 
@@ -46,7 +46,7 @@
 <p>Francesco Mereto successfully passed his Master’s exam about <em>Virtual Orbital Space Compression via Davidson-Based techniques</em>.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://toschaefer.github.io/schaeferlab/posts/2026-03-mereto/mereto.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+<p><img src="https://toschaefer.github.io/posts/2026-03-mereto/mereto.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
 </figure>
 </div>
 <p>In his thesis, he developed enhanced Davidson algorithms to significantly speed up compression techniques of the virtual orbital space starting from the unbiased plane wave basis. This is particularly useful for correlation workflows (e.g., coupled cluster theory) applied to systems which include a lot of vacuum.</p>
@@ -55,13 +55,13 @@
 
  ]]></description>
   <category>Theses</category>
-  <guid>https://toschaefer.github.io/schaeferlab/posts/2026-03-mereto/</guid>
+  <guid>https://toschaefer.github.io/posts/2026-03-mereto/</guid>
   <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://toschaefer.github.io/schaeferlab/posts/2026-03-mereto/mereto.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://toschaefer.github.io/posts/2026-03-mereto/mereto.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Publication in Nature Communications</title>
-  <link>https://toschaefer.github.io/schaeferlab/posts/2025-10-natcomm/</link>
+  <link>https://toschaefer.github.io/posts/2025-10-natcomm/</link>
   <description><![CDATA[ 
 
 
@@ -70,7 +70,7 @@
 <p><a href="https://doi.org/10.1038/s41467-025-64104-8">Understanding discrepancies in noncovalent interaction energies from wavefunction theories for large molecules</a></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://toschaefer.github.io/schaeferlab/posts/2025-10-natcomm/natcomm.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+<p><img src="https://toschaefer.github.io/posts/2025-10-natcomm/natcomm.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
 </figure>
 </div>
 <p>Our paper on noncovalent interactions is now published in Nature Communications. We investigate why two of the most trusted methods in quantum chemistry, CCSD(T) and DMC, have shown puzzling disagreements for large molecules. We identify an issue in the standard CCSD(T) method and show how our CCSD(cT) approach fixes this.</p>
@@ -79,13 +79,13 @@
 
  ]]></description>
   <category>Paper</category>
-  <guid>https://toschaefer.github.io/schaeferlab/posts/2025-10-natcomm/</guid>
+  <guid>https://toschaefer.github.io/posts/2025-10-natcomm/</guid>
   <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://toschaefer.github.io/schaeferlab/posts/2025-10-natcomm/natcomm.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://toschaefer.github.io/posts/2025-10-natcomm/natcomm.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Publication in Nature Chemistry</title>
-  <link>https://toschaefer.github.io/schaeferlab/posts/2025-08-shi/</link>
+  <link>https://toschaefer.github.io/posts/2025-08-shi/</link>
   <description><![CDATA[ 
 
 
@@ -94,7 +94,7 @@
 <p><a href="https://doi.org/10.1038/s41557-025-01884-y">An accurate and efficient framework for modelling the surface chemistry of ionic materials</a></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://toschaefer.github.io/schaeferlab/posts/2025-08-shi/shi.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+<p><img src="https://toschaefer.github.io/posts/2025-08-shi/shi.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
 </figure>
 </div>
 <p>Benjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach. This makes it practical to apply highly accurate correlated wavefunction theory, achieving results comparable to experiments at a manageable computational cost. It was an honor to contribute to this work in a great collaboration with Benjamin X. Shi, Andrea Zen, Angelos Michaelides, and coworkers.</p>
@@ -103,13 +103,13 @@
 
  ]]></description>
   <category>Paper</category>
-  <guid>https://toschaefer.github.io/schaeferlab/posts/2025-08-shi/</guid>
+  <guid>https://toschaefer.github.io/posts/2025-08-shi/</guid>
   <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://toschaefer.github.io/schaeferlab/posts/2025-08-shi/shi.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="https://toschaefer.github.io/posts/2025-08-shi/shi.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Preprint</title>
-  <link>https://toschaefer.github.io/schaeferlab/posts/2024-07-preprint/</link>
+  <link>https://toschaefer.github.io/posts/2024-07-preprint/</link>
   <description><![CDATA[ 
 
 
@@ -118,7 +118,7 @@
 <p><a href="https://doi.org/10.48550/arXiv.2407.01442">Understanding Discrepancies of Wavefunction Theories for Large Molecules</a></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://toschaefer.github.io/schaeferlab/posts/2024-07-preprint/preprint.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+<p><img src="https://toschaefer.github.io/posts/2024-07-preprint/preprint.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
 </figure>
 </div>
 <p>This work demonstrates that one of the most widely-used and accurate quantum chemistry approaches – CCSD(T) theory – in certain cases binds noncovalently interacting large molecular complexes too strongly. Our findings show that a simple yet efficient modification denoted as CCSD(cT) remedies these shortcomings.</p>
@@ -127,13 +127,13 @@
 
  ]]></description>
   <category>Paper</category>
-  <guid>https://toschaefer.github.io/schaeferlab/posts/2024-07-preprint/</guid>
+  <guid>https://toschaefer.github.io/posts/2024-07-preprint/</guid>
   <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://toschaefer.github.io/schaeferlab/posts/2024-07-preprint/preprint.png" medium="image" type="image/png" height="124" width="144"/>
+  <media:content url="https://toschaefer.github.io/posts/2024-07-preprint/preprint.png" medium="image" type="image/png" height="124" width="144"/>
 </item>
 <item>
   <title>Publication in J. Phys. Chem. Lett</title>
-  <link>https://toschaefer.github.io/schaeferlab/posts/2024-12-metals/</link>
+  <link>https://toschaefer.github.io/posts/2024-12-metals/</link>
   <description><![CDATA[ 
 
 
@@ -142,7 +142,7 @@
 <p><a href="https://doi.org/10.1021/acs.jpclett.4c03134">An accurate and efficient framework for modelling the surface chemistry of ionic materials</a></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://toschaefer.github.io/schaeferlab/posts/2024-12-metals/metals.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+<p><img src="https://toschaefer.github.io/posts/2024-12-metals/metals.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
 </figure>
 </div>
 <p>In this publication we introduce a novel finite-size correction scheme to enable coupled cluster theory for highly accurate materials modeling of metals. Using the example of metal surface energies, which are highly relevant due to their wide range of applications, we demonstrated that this observable can be reliably reproduced with high precision for the first time.</p>
@@ -151,13 +151,13 @@
 
  ]]></description>
   <category>Paper</category>
-  <guid>https://toschaefer.github.io/schaeferlab/posts/2024-12-metals/</guid>
+  <guid>https://toschaefer.github.io/posts/2024-12-metals/</guid>
   <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://toschaefer.github.io/schaeferlab/posts/2024-12-metals/metals.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://toschaefer.github.io/posts/2024-12-metals/metals.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Congratulations to Benjamin Wöckinger</title>
-  <link>https://toschaefer.github.io/schaeferlab/posts/2024-12-woeckinger/</link>
+  <link>https://toschaefer.github.io/posts/2024-12-woeckinger/</link>
   <description><![CDATA[ 
 
 
@@ -166,7 +166,7 @@
 <p>Benjamin Wöckinger successfully passed his Master’s exam about orbital localization in solids.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://toschaefer.github.io/schaeferlab/posts/2024-12-woeckinger/woeckinger.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+<p><img src="https://toschaefer.github.io/posts/2024-12-woeckinger/woeckinger.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
 </figure>
 </div>
 <p>In his thesis <a href="https://dx.doi.org/10.34726/hss.2024.124955?locale=en">Orbital Localization in Solids by Riemannian Optimization</a> he implemented and tested different optimization algorithms like BFGS, CG, and SA for orbital localization. Specifically he focused on Intrinsic Bond Orbitals (IBOs). The unitary constraints involved in orbital transformations are inherently satisfied through Riemannian optimization, where cost functions are optimized on Riemannian manifolds.</p>
@@ -175,13 +175,13 @@
 
  ]]></description>
   <category>Theses</category>
-  <guid>https://toschaefer.github.io/schaeferlab/posts/2024-12-woeckinger/</guid>
+  <guid>https://toschaefer.github.io/posts/2024-12-woeckinger/</guid>
   <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://toschaefer.github.io/schaeferlab/posts/2024-12-woeckinger/woeckinger.png" medium="image" type="image/png" height="108" width="144"/>
+  <media:content url="https://toschaefer.github.io/posts/2024-12-woeckinger/woeckinger.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
 <item>
   <title>Congratulations to Alexander Rumpf</title>
-  <link>https://toschaefer.github.io/schaeferlab/posts/2024-02-rumpf/</link>
+  <link>https://toschaefer.github.io/posts/2024-02-rumpf/</link>
   <description><![CDATA[ 
 
 
@@ -190,7 +190,7 @@
 <p>Alexander Rumpf successfully finished his project work <em>Bonding Orbitals in Solids</em>.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://toschaefer.github.io/schaeferlab/posts/2024-02-rumpf/rumpf_project.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+<p><img src="https://toschaefer.github.io/posts/2024-02-rumpf/rumpf_project.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
 </figure>
 </div>
 <p>In this work he focused on two questions: (1) Does the suitability to construct sparse tensors of localised orbitals deteriorate for materials with small band gaps and diffuse density? (2) Are there trends in the orbital spreads or the sparsity concerning the bandgap or lattice constant? We will be publishing the intriguing results soon.</p>
@@ -199,9 +199,9 @@
 
  ]]></description>
   <category>Theses</category>
-  <guid>https://toschaefer.github.io/schaeferlab/posts/2024-02-rumpf/</guid>
+  <guid>https://toschaefer.github.io/posts/2024-02-rumpf/</guid>
   <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://toschaefer.github.io/schaeferlab/posts/2024-02-rumpf/rumpf_project.png" medium="image" type="image/png" height="85" width="144"/>
+  <media:content url="https://toschaefer.github.io/posts/2024-02-rumpf/rumpf_project.png" medium="image" type="image/png" height="85" width="144"/>
 </item>
 </channel>
 </rss>
