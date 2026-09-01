@@ -47,7 +47,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a1da8895365d2d02803e6271cecac10f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-0cf563b8b9c729f124e73e41926058a6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -86,7 +86,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
+      page: 4,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
     };
 
@@ -174,6 +175,13 @@ window.Quarto = {
   <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">Publications</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:tobias.schaefer@tuwien.ac.at"> <i class="bi bi-envelope" role="img" aria-label="Email Tobias Schäfer">
+</i> 
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -323,7 +331,7 @@ Aug 15, 2025
 <div class="quarto-post image-right" data-index="4" data-categories="UGFwZXI=" data-listing-date-sort="1751328000000" data-listing-file-modified-sort="1787840888882" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
 <div class="thumbnail"><a href="./posts/2024-07-preprint/index.html" class="no-external">
 
-<img loading="lazy" src="./posts/2024-07-preprint/preprint.png" class="thumbnail-image">
+<img loading="lazy" data-src="./posts/2024-07-preprint/preprint.png" class="thumbnail-image">
 
 </a></div>
 <div class="body">
@@ -345,7 +353,7 @@ Jul 1, 2025
 <div class="quarto-post image-right" data-index="5" data-categories="UGFwZXI=" data-listing-date-sort="1734652800000" data-listing-file-modified-sort="1787840752114" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
 <div class="thumbnail"><a href="./posts/2024-12-metals/index.html" class="no-external">
 
-<img loading="lazy" src="./posts/2024-12-metals/metals.jpg" class="thumbnail-image">
+<img loading="lazy" data-src="./posts/2024-12-metals/metals.jpg" class="thumbnail-image">
 
 </a></div>
 <div class="body">
@@ -367,7 +375,7 @@ Dec 20, 2024
 <div class="quarto-post image-right" data-index="6" data-categories="VGhlc2Vz" data-listing-date-sort="1733097600000" data-listing-file-modified-sort="1787815650374" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
 <div class="thumbnail"><a href="./posts/2024-12-woeckinger/index.html" class="no-external">
 
-<img loading="lazy" src="./posts/2024-12-woeckinger/woeckinger.png" class="thumbnail-image">
+<img loading="lazy" data-src="./posts/2024-12-woeckinger/woeckinger.png" class="thumbnail-image">
 
 </a></div>
 <div class="body">
@@ -389,7 +397,7 @@ Dec 2, 2024
 <div class="quarto-post image-right" data-index="7" data-categories="VGhlc2Vz" data-listing-date-sort="1706745600000" data-listing-file-modified-sort="1787841060958" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
 <div class="thumbnail"><a href="./posts/2024-02-rumpf/index.html" class="no-external">
 
-<img loading="lazy" src="./posts/2024-02-rumpf/rumpf_project.png" class="thumbnail-image">
+<img loading="lazy" data-src="./posts/2024-02-rumpf/rumpf_project.png" class="thumbnail-image">
 
 </a></div>
 <div class="body">
@@ -410,6 +418,9 @@ Feb 1, 2024
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
@@ -812,6 +823,25 @@ Feb 1, 2024
   });
   </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p>Affiliated with the <strong><a href="https://www.uni.lu/">University of Luxembourg</a></strong><br><em>(Formerly at TU Wien)</em></p>
+</div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="Contact: <a href='mailto:{{< var email >}}'>PI</a>">
+<p>Contact PI</p>
+</a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
 
 
 

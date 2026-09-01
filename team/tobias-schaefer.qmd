@@ -7,6 +7,9 @@ about:
   template: trestles
   image-shape: round
   links:
+    - icon: envelope
+      text: E-Mail
+      href: "mailto:{{< var email >}}"
     - icon: github
       text: Github
       href: https://github.com/toschaefer
@@ -19,6 +22,7 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/tobias-schäfer-633649345
+    
  
 ---
 

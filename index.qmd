@@ -8,6 +8,7 @@ listing:
   sort-ui: false
   filter-ui: false
   feed: true
+  page-size: 4
 ---
 
 <!--We explore quantum phenomena in fields like surface science and heterogeneous catalysis by developing and applying scalable wavefunction based algorithms to solve the many-body Schrödinger equation with high accuracy. 
