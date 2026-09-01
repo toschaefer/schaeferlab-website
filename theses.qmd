@@ -4,7 +4,7 @@ title: "Theses Available"
 
 ## Looking for a Bachelor's, Master's, or Doctoral Thesis Project?
 
-We offer engaging and challenging research projects closely aligned with our research in computational materials physics and quantum chemistry. If you're interested, feel free to reach out to us—we’d love to hear from you! 
+We offer engaging and challenging research projects closely aligned with our research in computational materials physics and quantum chemistry. If you're interested, feel free to [reach out to us](mailto:{{< var email >}})—we’d love to hear from you! 
 
 Supporting students and fostering the careers of young researchers are central to our group’s mission. We aim to foster an inclusive environment and particularly welcome female researchers and encourage their participation in our research. We also provide opportunities for longer-term projects, which can be divided into smaller stages, such as a Master's thesis followed by a Doctoral thesis. 
 

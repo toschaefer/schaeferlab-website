@@ -24,11 +24,9 @@ website:
         aria-label: "Email Tobias Schäfer"
   page-footer:
     background: light
-    center: "Affiliated with the **[University of Luxembourg](https://www.uni.lu/)**<br>*(Formerly at TU Wien)*"
-    right: 
-      - icon: envelope
-        href: "Contact: <a href='mailto:{{< var email >}}'>PI</a>"
-        text: Contact PI
+    #center: "Affiliated with the **[University of Luxembourg](https://www.uni.lu/)** and **[TU Wien](https://www.tuwien.at/)**"
+    center: "Affiliated with **[TU Wien](https://www.tuwien.at/)**"
+    right: "<a href='mailto:{{< var email >}}'>Contact PI</a>"
 
 format:
   html:
