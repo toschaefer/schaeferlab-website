@@ -2,27 +2,25 @@
 title: "Publications"
 ---
 
-## Selected Publications
+:::: {.columns}
 
-## jo
+::: {.column width="45%"}
+### Principal Investigator
+For the comprehensive publication history of Tobias Schäfer, please visit his official Google Scholar profile:
 
-Our lab focuses on developing and applying scalable wavefunction-based algorithms, investigating surface science, heterogeneous catalysis, and quantum phenomena.
-
-Because our publication record is frequently updated, we maintain our comprehensive lists of articles, preprints, and theses on the following academic networks. 
-
-Please visit the profiles below for the most up-to-date information on our research output:
-
-::: {layout-ncol=3}
-
-### [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID)
-Access citation metrics, h-index, and a complete chronological list of all peer-reviewed articles.
-
-### [ResearchGate](https://www.researchgate.net/profile/Tobias-Schaefer-14)
-View preprints, conference proceedings, and our latest ongoing projects. 
-
-### [ORCID](https://orcid.org/YOUR_ORCID)
-View a verified record of our academic publications and funding history.
-
+<br>
+[<i class="bi bi-google"></i> Google Scholar](https://scholar.google.com/citations?user=MhmPJNUAAAAJ&hl=en){.btn .btn-primary}
 :::
 
-*(Optional: You could manually paste the citations of your 3-5 most impactful "Selected Publications" here using a bulleted list, and let Google Scholar handle the rest).*
+::: {.column width="10%"}
+<!-- empty space for visual separation -->
+:::
+
+::: {.column width="45%"}
+### Lab Members
+Keeping a publication list of the team updated on a website is nearly impossible. 
+
+Instead, you can find the individual Google Scholar accounts for all lab members linked directly on their respective profiles on our [Team](team.qmd) page.
+:::
+
+::::
