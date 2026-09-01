@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2026-07-18">
 
-<title>Tobias Schäfer – Schäfer Lab</title>
+<title>Periodic Hartree-Fock and Hybrid Functionals in DFTK.jl – Schäfer Lab</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -29,22 +30,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-0e5dc07bea54bdbf9a13a090fe17f232.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-0e5dc07bea54bdbf9a13a090fe17f232.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -74,7 +76,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -84,7 +86,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Schäfer Lab</span>
     </a>
   </div>
@@ -95,23 +97,23 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../team.html"> 
+    <a class="nav-link" href="../../team.html"> 
 <span class="menu-text">Team</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../codes.html"> 
+    <a class="nav-link" href="../../codes.html"> 
 <span class="menu-text">Codes</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../theses.html"> 
+    <a class="nav-link" href="../../theses.html"> 
 <span class="menu-text">Theses available</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../publications.html"> 
+    <a class="nav-link" href="../../publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
 </ul>
@@ -134,71 +136,60 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
-    <img src="tschaefer2.png" class="about-image
-  round " style="height: 20em; width: 20em;">
+<main class="content" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Tobias Schäfer</h1>
-<p class="subtitle lead">Principal Investigator</p>
-</div>
+<h1 class="title">Periodic Hartree-Fock and Hybrid Functionals in DFTK.jl</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Code</div>
+  </div>
+  </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">July 18, 2026</p>
+    </div>
   </div>
+  
+    
+  </div>
+  
+
+
 </header>
-    <div class="about-links">
-  <a href="mailto:tobias.schaefer@tuwien.ac.at" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">Email</span>
-  </a>
-  <a href="https://github.com/toschaefer" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-  <a href="https://scholar.google.com/citations?user=MhmPJNUAAAAJ&amp;hl=en" class="about-link" rel="" target="">
-    <i class="bi bi-flask"></i>
-     <span class="about-link-text">Google Scholar</span>
-  </a>
-  <a href="https://bsky.app/profile/tschaefer-sc.bsky.social" class="about-link" rel="" target="">
-    <i class="bi bi-bluesky"></i>
-     <span class="about-link-text">Bluesky</span>
-  </a>
-  <a href="https://www.linkedin.com/in/tobias-schäfer-633649345" class="about-link" rel="" target="">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
-<section id="current-position" class="level2">
-<h2 data-anchor-id="current-position">Current position</h2>
-<!--**Research Scientist** | University of Luxembourg -->
-<!--**Affiliated Professor** | TU Wien -->
-<p><strong>Senior Postdoc</strong> | TU Wien</p>
-</section>
-<section id="previous-positions" class="level2">
-<h2 data-anchor-id="previous-positions">Previous positions</h2>
-<p><a href="https://www.fwf.ac.at/en/research-radar/10.55776/ESP335"><strong>PI of FWF ESPRIT grant</strong></a> | TU Wien | 2023-2026</p>
-<p><strong>Assistant Professor</strong> | TU Wien | 2019-2023</p>
-<p><strong>Postdoctoral Researcher</strong> | TU Wien | 2018-2019</p>
-</section>
-<section id="grants" class="level2">
-<h2 data-anchor-id="grants">Grants</h2>
-<p><a href="https://www.fwf.ac.at/en/research-radar/10.55776/ESP335"><strong>FWF ESPRIT grant</strong></a> | €300k | 2023-2026</p>
-</section>
-<section id="education" class="level2">
-<h2 data-anchor-id="education">Education</h2>
-<p><strong>PhD in Physics</strong> | University of Vienna | 2018</p>
-<p><strong>MSc in Physics</strong> | University of Vienna | 2015</p>
-<p><strong>BSc in Physics</strong> | Goethe University, Frankfurt | 2012</p>
 
 
-</section>
-</main></div>
+<p>We implemented exact exchange in the periodic and plane wave based DFTK.jl code.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="exx3.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:30.0%"></p>
+</figure>
 </div>
- <!-- /main -->
+<ul>
+<li>ACE</li>
+<li>different kernels</li>
+<li>spin polarizedd</li>
+</ul>
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     

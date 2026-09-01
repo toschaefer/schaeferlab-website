@@ -4,28 +4,28 @@
     "href": "codes.html",
     "title": "Codes",
     "section": "",
-    "text": "Our codes and selected contributions in software projects."
+    "text": "A list of software projects that we are involved in, either maintaining or contributing to."
   },
   {
-    "objectID": "codes.html#psitk.jl",
-    "href": "codes.html#psitk.jl",
+    "objectID": "codes.html#psitk",
+    "href": "codes.html#psitk",
     "title": "Codes",
-    "section": "PsiTK.jl",
-    "text": "PsiTK.jl\n\nA bridge between DFTK.jl and Cc4s"
+    "section": "PsiTK",
+    "text": "PsiTK\nWe are working on the Wavefunction Toolkit (PsiTK.jl).\n Website  GitHub"
   },
   {
-    "objectID": "codes.html#dftk.jl",
-    "href": "codes.html#dftk.jl",
+    "objectID": "codes.html#dftk",
+    "href": "codes.html#dftk",
     "title": "Codes",
-    "section": "DFTK.jl",
-    "text": "DFTK.jl\n\nExact exchange and Hartree-Fock"
+    "section": "DFTK",
+    "text": "DFTK\nWe contributed an implementation of Exact Exchange in the Density Functional Toolkit (DFTK.jl).\n Website  GitHub"
   },
   {
     "objectID": "codes.html#vasp",
     "href": "codes.html#vasp",
     "title": "Codes",
     "section": "VASP",
-    "text": "VASP\n\nEmbedding wavefunction methods\n\n\nQuartic Scaling MP2 algorithm for solids"
+    "text": "VASP\nWe have made several contributions to the widely used Vienna Ab Initio Simulation Package (VASP). For instance, these include:\n\nConvergence and Properties of Intrinsic Bond Orbitals in Solids (2025)\nSampling the Reciprocal Coulomb Potential in Finite Anisotropic Cells (2023)\nLocal Embedding of Coupled Cluster Theory into the Random Phase Approximation using Plane Waves (2021)\nQuartic Scaling MP2 for Solids: A Highly Parallelized Algorithm in the Plane Wave Basis (2017)\n\n Website"
   },
   {
     "objectID": "team/tobias-schaefer.html",
@@ -126,25 +126,11 @@
     "text": "Understanding discrepancies in noncovalent interaction energies from wavefunction theories for large molecules\n\n\n\n\n\nOur paper on noncovalent interactions is now published in Nature Communications. We investigate why two of the most trusted methods in quantum chemistry, CCSD(T) and DMC, have shown puzzling disagreements for large molecules. We identify an issue in the standard CCSD(T) method and show how our CCSD(cT) approach fixes this."
   },
   {
-    "objectID": "posts/2026-03-rumpf/index.html",
-    "href": "posts/2026-03-rumpf/index.html",
-    "title": "Congratulations to Alexander Rumpf",
+    "objectID": "posts/2024-12-woeckinger/index.html",
+    "href": "posts/2024-12-woeckinger/index.html",
+    "title": "Congratulations to Benjamin Wöckinger",
     "section": "",
-    "text": "Alexander Rumpf successfully passed his Master’s exam about Fragment-Based Embedding of Correlated Wavefunction Methods for CO Adsorption on TiO2(110).\n\n\n\n\n\nIn his thesis, he systematically evaluated various fragment construction schemes to accurately capture the electronic structure of carbon monoxide adsorbed on titanium dioxide. His highly precise theoretical predictions reveal a significant discrepancy with experimental data, exposing a fascinating puzzle that highlights the complex influence of temperature, vibrations, surface defects and specific measurement techniques on the observed adsorption behavior."
-  },
-  {
-    "objectID": "posts/2025-08-shi/index.html",
-    "href": "posts/2025-08-shi/index.html",
-    "title": "Publication in Nature Chemistry",
-    "section": "",
-    "text": "An accurate and efficient framework for modelling the surface chemistry of ionic materials\n\n\n\n\n\nBenjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach. This makes it practical to apply highly accurate correlated wavefunction theory, achieving results comparable to experiments at a manageable computational cost. It was an honor to contribute to this work in a great collaboration with Benjamin X. Shi, Andrea Zen, Angelos Michaelides, and coworkers."
-  },
-  {
-    "objectID": "posts/2024-02-rumpf/index.html",
-    "href": "posts/2024-02-rumpf/index.html",
-    "title": "Congratulations to Alexander Rumpf",
-    "section": "",
-    "text": "Alexander Rumpf successfully finished his project work Bonding Orbitals in Solids.\n\n\n\n\n\nIn this work he focused on two questions: (1) Does the suitability to construct sparse tensors of localised orbitals deteriorate for materials with small band gaps and diffuse density? (2) Are there trends in the orbital spreads or the sparsity concerning the bandgap or lattice constant? We will be publishing the intriguing results soon."
+    "text": "Benjamin Wöckinger successfully passed his Master’s exam about orbital localization in solids.\n\n\n\n\n\nIn his thesis Orbital Localization in Solids by Riemannian Optimization he implemented and tested different optimization algorithms like BFGS, CG, and SA for orbital localization. Specifically he focused on Intrinsic Bond Orbitals (IBOs). The unitary constraints involved in orbital transformations are inherently satisfied through Riemannian optimization, where cost functions are optimized on Riemannian manifolds."
   },
   {
     "objectID": "posts/2024-07-preprint/index.html",
@@ -154,11 +140,32 @@
     "text": "Understanding Discrepancies of Wavefunction Theories for Large Molecules\n\n\n\n\n\nThis work demonstrates that one of the most widely-used and accurate quantum chemistry approaches – CCSD(T) theory – in certain cases binds noncovalently interacting large molecular complexes too strongly. Our findings show that a simple yet efficient modification denoted as CCSD(cT) remedies these shortcomings."
   },
   {
-    "objectID": "posts/2024-12-woeckinger/index.html",
-    "href": "posts/2024-12-woeckinger/index.html",
-    "title": "Congratulations to Benjamin Wöckinger",
+    "objectID": "posts/2024-02-rumpf/index.html",
+    "href": "posts/2024-02-rumpf/index.html",
+    "title": "Congratulations to Alexander Rumpf",
     "section": "",
-    "text": "Benjamin Wöckinger successfully passed his Master’s exam about orbital localization in solids.\n\n\n\n\n\nIn his thesis Orbital Localization in Solids by Riemannian Optimization he implemented and tested different optimization algorithms like BFGS, CG, and SA for orbital localization. Specifically he focused on Intrinsic Bond Orbitals (IBOs). The unitary constraints involved in orbital transformations are inherently satisfied through Riemannian optimization, where cost functions are optimized on Riemannian manifolds."
+    "text": "Alexander Rumpf successfully finished his project work Bonding Orbitals in Solids.\n\n\n\n\n\nIn this work he focused on two questions: (1) Does the suitability to construct sparse tensors of localised orbitals deteriorate for materials with small band gaps and diffuse density? (2) Are there trends in the orbital spreads or the sparsity concerning the bandgap or lattice constant? We will be publishing the intriguing results soon."
+  },
+  {
+    "objectID": "posts/2025-08-shi/index.html",
+    "href": "posts/2025-08-shi/index.html",
+    "title": "Publication in Nature Chemistry",
+    "section": "",
+    "text": "An accurate and efficient framework for modelling the surface chemistry of ionic materials\n\n\n\n\n\nBenjamin Shi has developed a new automated and open-source framework (autoSKZCAM) for molecular adsorption on ionic materials by leveraging a multilevel embedding approach. This makes it practical to apply highly accurate correlated wavefunction theory, achieving results comparable to experiments at a manageable computational cost. It was an honor to contribute to this work in a great collaboration with Benjamin X. Shi, Andrea Zen, Angelos Michaelides, and coworkers."
+  },
+  {
+    "objectID": "posts/2026-03-rumpf/index.html",
+    "href": "posts/2026-03-rumpf/index.html",
+    "title": "Congratulations to Alexander Rumpf",
+    "section": "",
+    "text": "Alexander Rumpf successfully passed his Master’s exam about Fragment-Based Embedding of Correlated Wavefunction Methods for CO Adsorption on TiO2(110).\n\n\n\n\n\nIn his thesis, he systematically evaluated various fragment construction schemes to accurately capture the electronic structure of carbon monoxide adsorbed on titanium dioxide. His highly precise theoretical predictions reveal a significant discrepancy with experimental data, exposing a fascinating puzzle that highlights the complex influence of temperature, vibrations, surface defects and specific measurement techniques on the observed adsorption behavior."
+  },
+  {
+    "objectID": "posts/2026-07-exx/index.html",
+    "href": "posts/2026-07-exx/index.html",
+    "title": "Periodic Hartree-Fock and Hybrid Functionals in DFTK.jl",
+    "section": "",
+    "text": "We implemented exact exchange in the periodic and plane wave based DFTK.jl code.\n\n\n\n\n\n\nACE\ndifferent kernels\nspin polarizedd"
   },
   {
     "objectID": "posts/2026-03-mereto/index.html",
