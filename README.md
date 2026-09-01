@@ -1,1 +1,1 @@
-# schaeferlab-website
+# Schäfer Lab Home
