@@ -207,28 +207,28 @@
     "href": "codes.html",
     "title": "Codes",
     "section": "",
-    "text": "Our codes and selected contributions in software projects."
+    "text": "A list of software projects that we are involved in, either maintaining or contributing to."
   },
   {
     "objectID": "codes.html#dftk",
     "href": "codes.html#dftk",
     "title": "Codes",
     "section": "DFTK",
-    "text": "DFTK\n\nExact exchange and Hartree-Fock"
+    "text": "DFTK\nWe contributed an implementation of Exact Exchange in the Density Functional Toolkit (DFTK.jl).\n Website  GitHub"
   },
   {
     "objectID": "codes.html#vasp",
     "href": "codes.html#vasp",
     "title": "Codes",
     "section": "VASP",
-    "text": "VASP\n\nEmbedding wavefunction methods\n\n\nQuartic Scaling MP2 algorithm for solids"
+    "text": "VASP\nWe have made several contributions to the widely used Vienna Ab Initio Simulation Package (VASP). For instance, these include:\n\nConvergence and Properties of Intrinsic Bond Orbitals in Solids (2025)\nSampling the Reciprocal Coulomb Potential in Finite Anisotropic Cells (2023)\nLocal Embedding of Coupled Cluster Theory into the Random Phase Approximation using Plane Waves (2021)\nQuartic Scaling MP2 for Solids: A Highly Parallelized Algorithm in the Plane Wave Basis (2017)\n\n Website"
   },
   {
     "objectID": "codes.html#psitk",
     "href": "codes.html#psitk",
     "title": "Codes",
     "section": "PsiTK",
-    "text": "PsiTK\n\nA bridge between DFTK.jl and Cc4s"
+    "text": "PsiTK\nWe are working on the Wavefunction Toolkit (PsiTK.jl).\n Website  GitHub"
   },
   {
     "objectID": "publications.html#jo",
@@ -249,14 +249,14 @@
     "href": "codes.html#dftk.jl",
     "title": "Codes",
     "section": "DFTK.jl",
-    "text": "DFTK.jl\n\nExact exchange and Hartree-Fock"
+    "text": "DFTK.jl\nWe implemented exact exchange in the Density Functional Toolkit (DFTK.jl)\n\nExact exchange and Hartree-Fock"
   },
   {
     "objectID": "codes.html#psitk.jl",
     "href": "codes.html#psitk.jl",
     "title": "Codes",
     "section": "PsiTK.jl",
-    "text": "PsiTK.jl\n\nA bridge between DFTK.jl and Cc4s"
+    "text": "PsiTK.jl"
   },
   {
     "objectID": "team/tobias-schaefer.html#a",
@@ -334,5 +334,26 @@
     "title": "Schäfer Lab Home",
     "section": "Join the Lab",
     "text": "Join the Lab\nWe are currently transitioning to the University of Luxembourg and are actively looking for motivated researchers to join our computational materials science group.\nWhether you are interested in a Master’s thesis, a PhD position, or a postdoctoral fellowship, please review our Lab Philosophy and contact tobias.schaefer@uni.lu with your CV."
+  },
+  {
+    "objectID": "posts/2026-07-exx/index.html",
+    "href": "posts/2026-07-exx/index.html",
+    "title": "Periodic Hartree-Fock and Hybrid Functionals in DFTK.jl",
+    "section": "",
+    "text": "We implemented exact exchange in the periodic and plane wave based DFTK.jl code.\n\n\n\n\n\n\nACE\ndifferent kernels\nspin polarizedd"
+  },
+  {
+    "objectID": "codes.html#psitk.jl-1",
+    "href": "codes.html#psitk.jl-1",
+    "title": "Codes",
+    "section": "PsiTK.jl",
+    "text": "PsiTK.jl\nWe are working on the Wavefunction Toolkit (PsiTK.jl)"
+  },
+  {
+    "objectID": "codes.html#dftk.",
+    "href": "codes.html#dftk.",
+    "title": "Codes",
+    "section": "DFTK.",
+    "text": "DFTK.\nWe contributed an implementation of Exact Exchange in the Density Functional Toolkit (DFTK.jl).\n Website  GitHub"
   }
 ]

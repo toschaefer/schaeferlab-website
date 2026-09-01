@@ -2,7 +2,7 @@
 title: "Tobias Schäfer"
 subtitle: "Principal Investigator"
 order: 1
-image: tschaefer.png
+image: tschaefer2.png
 about:
   template: trestles
   image-shape: round

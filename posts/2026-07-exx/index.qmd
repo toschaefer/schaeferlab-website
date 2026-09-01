@@ -1,0 +1,14 @@
+---
+title: "Periodic Hartree-Fock and Hybrid Functionals in DFTK.jl"
+date: "2026-07-18"
+categories: [Code]
+image: "exx3.jpeg"
+---
+
+We implemented exact exchange in the periodic and plane wave based DFTK.jl code.
+
+![](exx3.jpeg){fig-align="center" width="30%"}
+
+* ACE
+* different kernels
+* spin polarizedd
