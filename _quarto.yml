@@ -22,6 +22,9 @@ website:
       - icon: envelope
         href: "mailto:{{< var email >}}"
         aria-label: "Email Tobias Schäfer"
+      - icon: flask
+        href: https://scholar.google.com/citations?user=MhmPJNUAAAAJ&hl=en   
+        aria-label: "Google Scholar of Tobias Schäfer"
   page-footer:
     background: light
     #center: "Affiliated with the **[University of Luxembourg](https://www.uni.lu/)** and **[TU Wien](https://www.tuwien.at/)**"
