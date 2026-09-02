@@ -11,14 +11,14 @@
     "href": "codes.html#psitk",
     "title": "Codes",
     "section": "PsiTK",
-    "text": "PsiTK\nWe maintain the Wavefunction Toolkit (PsiTK.jl). It is a package for developing correlated wavefunction workflows in the plane wave basis. This includes density fitting, virtual space compressions, orbital localization, etc.\nFor instance, PsiTK can be employed as an interface between DFTK and the Coupled Cluster for Solids (Cc4s) code, for CCSD(T) calculations under periodic boundary conditions.\nWe welcome contributions from the scientific community!\n PsiTK Website  GitHub"
+    "text": "PsiTK\nWe maintain the Wavefunction Toolkit (PsiTK.jl). It’s currently in the alpha stage. PsiTK is a package for developing correlated wavefunction workflows in the plane wave basis. This includes density fitting, virtual space compressions, orbital localization, etc.\nFor instance, PsiTK can be employed as an interface between DFTK and the Coupled Cluster for Solids (Cc4s) code, for CCSD(T) calculations under periodic boundary conditions.\nWe welcome contributions from the scientific community!\n PsiTK Website  GitHub"
   },
   {
     "objectID": "codes.html#dftk",
     "href": "codes.html#dftk",
     "title": "Codes",
     "section": "DFTK",
-    "text": "DFTK\nWe contribute to the Density Functional Toolkit (DFTK.jl).\n\nimplementation of exact exchange for Hartree-Fock and hybrid functional (PBE0, HSE) calcualtions.\nwe are currently working on improved solvers (DIIS) for Hartree-Fock and hybrid functionals.\n\n DFTK Website  GitHub"
+    "text": "DFTK\nWe contribute to the Density Functional Toolkit (DFTK.jl).\n\nimplementation of exact exchange for Hartree-Fock and hybrid functional (PBE0, HSE) calculations.\nwe are currently working on improved solvers (DIIS) for Hartree-Fock and hybrid functionals.\n\n DFTK Website  GitHub"
   },
   {
     "objectID": "codes.html#vasp",
@@ -163,9 +163,9 @@
   {
     "objectID": "posts/2026-07-exx/index.html",
     "href": "posts/2026-07-exx/index.html",
-    "title": "Periodic Hartree-Fock and Hybrid Functionals in DFTK.jl",
+    "title": "Periodic Hartree-Fock and Hybrid Functionals in DFTK",
     "section": "",
-    "text": "We implemented exact exchange in the periodic and plane wave based DFTK.jl code.\n\n\n\n\n\n\nACE\ndifferent kernels\nspin polarizedd"
+    "text": "We implemented exact exchange in the periodic and plane wave based DFTK code.\n\n\n\n\n\nThis exact exchange (EXX) implementation enables Hartree-Fock and hybrid functional calculation (PBE0, HSE) for periodic systems and comes with the following features:\n\nspin-restricted and unrestricted EXX\nAdaptively Compressed Exchange (ACE)\nrestriction to \\(\\mathbf \\Gamma\\)-point sampling of the Brillouine zone\nvarious techniques to treat the Coulomb singularity at \\(G+q=0\\):\n\nProbe charge Ewald\nWigner-Seitz truncation\nSpherical truncation\nVoxel averaging\n\n\nCheck the example file in DFTK."
   },
   {
     "objectID": "posts/2026-03-mereto/index.html",

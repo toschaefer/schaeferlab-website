@@ -12,24 +12,33 @@
 <generator>quarto-1.10.18</generator>
 <lastBuildDate>Sat, 18 Jul 2026 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>Periodic Hartree-Fock and Hybrid Functionals in DFTK.jl</title>
+  <title>Periodic Hartree-Fock and Hybrid Functionals in DFTK</title>
   <link>https://toschaefer.github.io/posts/2026-07-exx/</link>
   <description><![CDATA[ 
 
 
 
 
-<p>We implemented exact exchange in the periodic and plane wave based DFTK.jl code.</p>
+<p>We implemented exact exchange in the periodic and plane wave based DFTK code.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://toschaefer.github.io/posts/2026-07-exx/exx3.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:30.0%"></p>
 </figure>
 </div>
+<p>This exact exchange (EXX) implementation enables Hartree-Fock and hybrid functional calculation (PBE0, HSE) for periodic systems and comes with the following features:</p>
 <ul>
-<li>ACE</li>
-<li>different kernels</li>
-<li>spin polarizedd</li>
+<li>spin-restricted and unrestricted EXX</li>
+<li>Adaptively Compressed Exchange (ACE)</li>
+<li>restriction to <img src="https://latex.codecogs.com/png.latex?%5Cmathbf%20%5CGamma">-point sampling of the Brillouine zone</li>
+<li>various techniques to treat the Coulomb singularity at <img src="https://latex.codecogs.com/png.latex?G+q=0">:
+<ul>
+<li><a href="https://docs.dftk.org/stable/api/#DFTK.ProbeCharge">Probe charge Ewald</a></li>
+<li><a href="https://docs.dftk.org/stable/api/#DFTK.WignerSeitzTruncatedCoulomb">Wigner-Seitz truncation</a></li>
+<li><a href="https://docs.dftk.org/stable/api/#DFTK.SphericallyTruncatedCoulomb">Spherical truncation</a></li>
+<li><a href="https://docs.dftk.org/stable/api/#DFTK.VoxelAveraged">Voxel averaging</a></li>
+</ul></li>
 </ul>
+<p>Check the <a href="https://github.com/JuliaMolSim/DFTK.jl/blob/master/examples/exact_exchange.jl">example file</a> in DFTK.</p>
 
 
 
