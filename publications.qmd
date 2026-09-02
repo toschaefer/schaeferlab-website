@@ -20,7 +20,7 @@ For the comprehensive publication history of Tobias Schäfer, please visit his o
 ### Lab Members
 Keeping a publication list of the team updated on a website is nearly impossible. 
 
-Instead, you can find the individual Google Scholar accounts for all lab members linked directly on their respective profiles on our [Team](team.qmd) page.
+Instead, you can find the individual Google Scholar accounts for the lab members linked directly on their respective profiles on our [Team](team.qmd) page.
 :::
 
 ::::

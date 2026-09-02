@@ -88,7 +88,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Principal Investigator\nFor the comprehensive publication history of Tobias Schäfer, please visit his official Google Scholar profile:\n  Google Scholar\n\n\n\n\n\nLab Members\nKeeping a publication list of the team updated on a website is nearly impossible.\nInstead, you can find the individual Google Scholar accounts for all lab members linked directly on their respective profiles on our Team page."
+    "text": "Principal Investigator\nFor the comprehensive publication history of Tobias Schäfer, please visit his official Google Scholar profile:\n  Google Scholar\n\n\n\n\n\nLab Members\nKeeping a publication list of the team updated on a website is nearly impossible.\nInstead, you can find the individual Google Scholar accounts for the lab members linked directly on their respective profiles on our Team page."
   },
   {
     "objectID": "posts/2026-03-mereto/index.html",
@@ -214,21 +214,21 @@
     "href": "codes.html#dftk",
     "title": "Codes",
     "section": "DFTK",
-    "text": "DFTK\nWe contributed an implementation of Exact Exchange in the Density Functional Toolkit (DFTK.jl).\n Website  GitHub"
+    "text": "DFTK\nWe contribute to the Density Functional Toolkit (DFTK.jl).\n\nimplementation of exact exchange for Hartree-Fock and hybrid functional (PBE0, HSE) calcualtions.\nwe are currently working on improved solvers (DIIS) for Hartree-Fock and hybrid functionals.\n\n DFTK Website  GitHub"
   },
   {
     "objectID": "codes.html#vasp",
     "href": "codes.html#vasp",
     "title": "Codes",
     "section": "VASP",
-    "text": "VASP\nWe have made several contributions to the widely used Vienna Ab Initio Simulation Package (VASP). For instance, these include:\n\nConvergence and Properties of Intrinsic Bond Orbitals in Solids (2025)\nSampling the Reciprocal Coulomb Potential in Finite Anisotropic Cells (2023)\nLocal Embedding of Coupled Cluster Theory into the Random Phase Approximation using Plane Waves (2021)\nQuartic Scaling MP2 for Solids: A Highly Parallelized Algorithm in the Plane Wave Basis (2017)\n\n Website"
+    "text": "VASP\nWe have made several contributions to the widely used Vienna Ab Initio Simulation Package (VASP). For instance, these include:\n\nConvergence and Properties of Intrinsic Bond Orbitals in Solids (2025)\nSampling the Reciprocal Coulomb Potential in Finite Anisotropic Cells (2023)\nLocal Embedding of Coupled Cluster Theory into the Random Phase Approximation using Plane Waves (2021)\nQuartic Scaling MP2 for Solids: A Highly Parallelized Algorithm in the Plane Wave Basis (2017)\n\n VASP Website"
   },
   {
     "objectID": "codes.html#psitk",
     "href": "codes.html#psitk",
     "title": "Codes",
     "section": "PsiTK",
-    "text": "PsiTK\nWe are working on the Wavefunction Toolkit (PsiTK.jl).\n Website  GitHub"
+    "text": "PsiTK\nWe maintain the Wavefunction Toolkit (PsiTK.jl). It is a package for developing correlated wavefunction workflows in the plane wave basis. This includes density fitting, virtual space compressions, orbital localization, etc.\nFor instance, PsiTK can be employed as an interface between DFTK and the Coupled Cluster for Solids (Cc4s) code, for CCSD(T) calculations under periodic boundary conditions.\nWe welcome contributions from the scientific community!\n PsiTK Website  GitHub"
   },
   {
     "objectID": "publications.html#jo",
