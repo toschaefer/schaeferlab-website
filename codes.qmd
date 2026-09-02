@@ -19,8 +19,8 @@ A list of software projects that we are involved in, either maintaining or contr
 
 ::: {.column width="75%"}
 ## PsiTK
-We maintain the Wavefunction Toolkit (PsiTK.jl). 
-It is a package for developing correlated wavefunction workflows in the plane wave basis.
+We maintain the Wavefunction Toolkit (PsiTK.jl). It's currently in the alpha stage.
+PsiTK is a package for developing correlated wavefunction workflows in the plane wave basis.
 This includes density fitting, virtual space compressions, orbital localization, etc.
 
 For instance, PsiTK can be employed as an interface between DFTK and the [Coupled Cluster for Solids (Cc4s)](https://cc4s.github.io/user-manual/) code, for CCSD(T) calculations under periodic boundary conditions.
@@ -49,7 +49,7 @@ We welcome contributions from the scientific community!
 ## DFTK
 We contribute to the Density Functional Toolkit (DFTK.jl).
 
-* implementation of exact exchange for Hartree-Fock and hybrid functional (PBE0, HSE) calcualtions.
+* implementation of exact exchange for Hartree-Fock and hybrid functional (PBE0, HSE) calculations.
 * we are currently working on improved solvers (DIIS) for Hartree-Fock and hybrid functionals.
 
 [<i class="bi bi-globe"></i> DFTK Website](https://docs.dftk.org){.btn .btn-outline-primary .btn-sm}

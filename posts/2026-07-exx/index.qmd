@@ -1,14 +1,23 @@
 ---
-title: "Periodic Hartree-Fock and Hybrid Functionals in DFTK.jl"
+title: "Periodic Hartree-Fock and Hybrid Functionals in DFTK"
 date: "2026-07-18"
 categories: [Code]
 image: "exx3.jpeg"
 ---
 
-We implemented exact exchange in the periodic and plane wave based DFTK.jl code.
+We implemented exact exchange in the periodic and plane wave based DFTK code.
 
 ![](exx3.jpeg){fig-align="center" width="30%"}
 
-* ACE
-* different kernels
-* spin polarizedd
+This exact exchange (EXX) implementation enables Hartree-Fock and hybrid functional calculation (PBE0, HSE) for periodic systems and comes with the following features:
+
+* spin-restricted and unrestricted EXX
+* Adaptively Compressed Exchange (ACE)
+* restriction to $\mathbf \Gamma$-point sampling of the Brillouine zone
+* various techniques to treat the Coulomb singularity at $G+q=0$:
+  * [Probe charge Ewald](https://docs.dftk.org/stable/api/#DFTK.ProbeCharge)
+  * [Wigner-Seitz truncation](https://docs.dftk.org/stable/api/#DFTK.WignerSeitzTruncatedCoulomb)
+  * [Spherical truncation](https://docs.dftk.org/stable/api/#DFTK.SphericallyTruncatedCoulomb)
+  * [Voxel averaging](https://docs.dftk.org/stable/api/#DFTK.VoxelAveraged)
+
+Check the [example file](https://github.com/JuliaMolSim/DFTK.jl/blob/master/examples/exact_exchange.jl) in DFTK.
