@@ -28,6 +28,13 @@
     "text": "VASP\nWe have made several contributions to the widely used Vienna Ab Initio Simulation Package (VASP). For instance, these include:\n\nConvergence and Properties of Intrinsic Bond Orbitals in Solids (2025)\nSampling the Reciprocal Coulomb Potential in Finite Anisotropic Cells (2023)\nLocal Embedding of Coupled Cluster Theory into the Random Phase Approximation using Plane Waves (2021)\nQuartic Scaling MP2 for Solids: A Highly Parallelized Algorithm in the Plane Wave Basis (2017)\n\n VASP Website"
   },
   {
+    "objectID": "codes.html#lucon",
+    "href": "codes.html#lucon",
+    "title": "Codes",
+    "section": "Lucon",
+    "text": "Lucon\nLucon stands for Loss optimization under Unitary CONstraint and is a Julia package maintaned by us. Its main purpose is to find a unitary matrix which maximizes/minimizes an arbitrary cost function \\(L(U)\\). It can be used by providing the Eucledean derivative \\(\\Gamma_{ij} = \\partial L / \\partial u^*_{ij}\\) of the cost function. We mainly use it to construct localized Wannier orbitals from initial Bloch orbitals.\nWe welcome contributions from the scientific community!\n GitHub"
+  },
+  {
     "objectID": "team/tobias-schaefer.html",
     "href": "team/tobias-schaefer.html",
     "title": "Tobias Schäfer",
