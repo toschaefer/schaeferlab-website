@@ -25,7 +25,7 @@ We work on making accurate many-electron correlation methods computationally aff
 We focus primarily on plane-wave based approaches, coupled cluster methods, and embedding techniques. 
 
 The drive behind our work is practical: we want to create software tools and workflows that researches actually use.
-We apply our tools to study complex materials, compute high-accuracy reference databases to benchmark cheaper models, and spend a lot of our time developing and maintaining software for the broader quantum chemistry and materials physics communities.
+We apply our tools to study complex materials such as heterogeneous catalysts or solid electrolytes, compute high-accuracy reference databases to benchmark cheaper models, and spend a lot of our time developing and maintaining software for the broader quantum chemistry and materials physics communities.
 
 
 ## News
